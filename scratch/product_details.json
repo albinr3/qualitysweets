@@ -1,0 +1,462 @@
+[
+  {
+    "id": 77,
+    "name": "Kaju Katli",
+    "price": 9,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>Pure cashew sweetened and cut into Diamond shapes</p>\r\n<p>Approximately 18pc per lb</p>\n<script id=\"qs-schema-product-77-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Pro",
+    "custom_url": "/kaju-katli/",
+    "custom_fields": [],
+    "modifiers": [
+      {
+        "id": 36,
+        "product_id": 77,
+        "name": "Size Options",
+        "display_name": "Size",
+        "type": "rectangles",
+        "required": true,
+        "sort_order": 0,
+        "config": [],
+        "option_values": [
+          {
+            "id": 9,
+            "option_id": 36,
+            "label": "1/2 LB",
+            "sort_order": 0,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 10,
+            "option_id": 36,
+            "label": "1 LB",
+            "sort_order": 1,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 11,
+            "option_id": 36,
+            "label": "2 LB",
+            "sort_order": 2,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": 90,
+    "name": "Jalebi",
+    "price": 12,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>Indian coiled shaped \"waffle\" made from flour and soaked in sugar syrup.</p>\r\n<p>PRICE PER POUND</p>\n<script id=\"qs-schema-product-90-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\"",
+    "custom_url": "/jalebi/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 140,
+    "name": "Assorted Sweets Box",
+    "price": 15.99,
+    "retail_price": 0,
+    "weight": 1.5,
+    "description": "<p>We have created an exquisit assortment of our sweets. This box is perfect if you want a little bit of everything, from bengali to nuts to traditional!</p>\r\n<p>1lb</p>\n<script id=\"qs-schema-product-",
+    "custom_url": "/assorted-sweets-box/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 162,
+    "name": "Mixed Sweets Box",
+    "price": 15,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>We have created an exquisit assortment of our sweets. This box is perfect if you want a little bit of everything, from bengali to nuts to traditional!</p>\r\n<p>1lb</p>\n<script id=\"qs-schema-product-",
+    "custom_url": "/mixed-sweets-box/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 139,
+    "name": "Bengali Sweet Box",
+    "price": 16,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>Bengali Sweet Assortment,</p>\r\n<p>we have put together some of our most populr bengali sweets in this pre-packaged box so you just add to cart and check out faster.</p>\r\n<p>1lb</p>\n<script id=\"qs-s",
+    "custom_url": "/bengali-sweet-box/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 154,
+    "name": "Mix Burfee Golden Gift Box",
+    "price": 35,
+    "retail_price": 0,
+    "weight": 3,
+    "description": "<p>This is a beautiful decorative box, we can fill with either dry snacks or your choice of sweets.</p>\r\n<p>Perfect for gifting!</p>\n<script id=\"qs-schema-product-154-v1\" type=\"application/ld+json\">{\"",
+    "custom_url": "/mix-burfee-golden-gift-box/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 98,
+    "name": "Besan Ladoo",
+    "price": 8,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>Hand Rolled gram flour ball with cardamon</p>\r\n<p>Approximately 7-8 pcs per lb</p>\n<script id=\"qs-schema-product-98-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\"",
+    "custom_url": "/besan-ladoo/",
+    "custom_fields": [],
+    "modifiers": [
+      {
+        "id": 49,
+        "product_id": 98,
+        "name": "Size Options",
+        "display_name": "Size",
+        "type": "rectangles",
+        "required": true,
+        "sort_order": 0,
+        "config": [],
+        "option_values": [
+          {
+            "id": 9,
+            "option_id": 49,
+            "label": "1/2 LB",
+            "sort_order": 0,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 10,
+            "option_id": 49,
+            "label": "1 LB",
+            "sort_order": 1,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 11,
+            "option_id": 49,
+            "label": "2 LB",
+            "sort_order": 2,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": 104,
+    "name": "Motichur Ladoo",
+    "price": 6.5,
+    "retail_price": 0,
+    "weight": 1.2,
+    "description": "<p>Made with gram flour boondi hand rolled into a ball with dry fruit inside</p>\r\n<p>Approximately 8-9 pcs per lb</p>\n<script id=\"qs-schema-product-104-v1\" type=\"application/ld+json\">{\"@context\":\"http",
+    "custom_url": "/motichur-ladoo/",
+    "custom_fields": [],
+    "modifiers": [
+      {
+        "id": 32,
+        "product_id": 104,
+        "name": "Size Options",
+        "display_name": "Size",
+        "type": "rectangles",
+        "required": true,
+        "sort_order": 0,
+        "config": [],
+        "option_values": [
+          {
+            "id": 9,
+            "option_id": 32,
+            "label": "1/2 LB",
+            "sort_order": 0,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 10,
+            "option_id": 32,
+            "label": "1 LB",
+            "sort_order": 1,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 11,
+            "option_id": 32,
+            "label": "2 LB",
+            "sort_order": 2,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": 138,
+    "name": "Assorted Sweets Basket",
+    "price": 110,
+    "retail_price": 0,
+    "weight": 2.5,
+    "description": "<p>This beautiful basket can be filled with your favorite sweets!</p>\r\n<p>Perfect for gifting and the basket is great as decoration, we gift wrap it for you.</p>\r\n<p>Approximately 9 lb</p>\n<script id=",
+    "custom_url": "/assorted-sweets-basket/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 155,
+    "name": "Sweets Basket Assortment",
+    "price": 150,
+    "retail_price": 0,
+    "weight": 5,
+    "description": "<p>This is a beautiful decorative basket, full of 5 lb of assorted sweets!</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: 10px;\">Perfect for gifting! and for catering events!</span></p>\n<script id=\"qs",
+    "custom_url": "/sweets-basket-assortment/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 168,
+    "name": "5 LB Assorted Gift Basket",
+    "price": 175,
+    "retail_price": 0,
+    "weight": 5.5,
+    "description": "<p>5 Pound assorted sweets box, It can be customized to with any of your favorites.</p>\r\n<p>Please send us a message or add your details to the description box when placing the order.&nbsp;</p>\n<scrip",
+    "custom_url": "/5-lb-assorted-gift-basket/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 169,
+    "name": "10 Lb Assorted Sweets Gift Basket",
+    "price": 250,
+    "retail_price": 0,
+    "weight": 10,
+    "description": "<p>10 Pound assorted sweets box, It can be customized to with any of your favorites.</p>\r\n<p>Please send us a message or add your details to the description box when placing the order.&nbsp;</p>\n<scri",
+    "custom_url": "/10-lb-assorted-sweets-gift-basket/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 167,
+    "name": "Holiday Season Peacock Gift Box (1.5 lbs)",
+    "price": 25,
+    "retail_price": 0,
+    "weight": 1.5,
+    "description": "<p>Beautiful Peacock sweets box. Perfect for this 2019 Holiday Season!</p>\r\n<p>Very festive and made with durable quality material. The inside is all gold and features the colorful peacock design on t",
+    "custom_url": "/holiday-season-peacock-gift-box-1-5-lbs/",
+    "custom_fields": [],
+    "modifiers": [
+      {
+        "id": 1,
+        "product_id": 167,
+        "name": "What Would You Like?",
+        "display_name": "What Would You Like?",
+        "type": "radio_buttons",
+        "required": false,
+        "sort_order": 0,
+        "config": [],
+        "option_values": [
+          {
+            "id": 1,
+            "option_id": 1,
+            "label": "Assorted Sweets",
+            "sort_order": 0,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 2,
+            "option_id": 1,
+            "label": "Bengaly Sweets ONLY",
+            "sort_order": 1,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          },
+          {
+            "id": 3,
+            "option_id": 1,
+            "label": "Assorted Dry Snacks",
+            "sort_order": 2,
+            "value_data": null,
+            "is_default": false,
+            "adjusters": {
+              "price": null,
+              "weight": null,
+              "image_url": "",
+              "purchasing_disabled": {
+                "status": false,
+                "message": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": 170,
+    "name": "Bengali Ladoo Basket - Diwali Special",
+    "price": 125,
+    "retail_price": 0,
+    "weight": 7,
+    "description": "<p>Bengali Sweets basket for our 2020 Diwali Special. Order now for pick up or get all the sweets shipped individually packaged.(platter not included for shipping so we are offering 10% discount with ",
+    "custom_url": "/bengali-ladoo-basket-diwali-special/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 158,
+    "name": "Special Assorted Sweets Box",
+    "price": 25,
+    "retail_price": 0,
+    "weight": 1.75,
+    "description": "<p>Beautiful red sweets box, perfect for any occasion!</p>\n<script id=\"qs-schema-product-158-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Special Assorted ",
+    "custom_url": "/special-assorted-sweets-box/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 141,
+    "name": "Gold Ganesh Box (Small)",
+    "price": 25,
+    "retail_price": 0,
+    "weight": 2,
+    "description": "<p>This one of a kind Gold Ganesh box is perfect for any ocassion, choose your sweets and make it your own!</p>\r\n<p>Approximately 1.5 lb</p>\n<script id=\"qs-schema-product-141-v1\" type=\"application/ld+",
+    "custom_url": "/gold-ganesh-box-small/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  },
+  {
+    "id": 142,
+    "name": "Golden Ganesh Box (Large)",
+    "price": 45,
+    "retail_price": 0,
+    "weight": 3,
+    "description": "<p><span>This one of a kind Gold Ganesh box is perfect for any ocassion, choose your sweets and make it your own! Approximately 3.5 lb</span></p>\n<script id=\"qs-schema-product-142-v1\" type=\"applicatio",
+    "custom_url": "/golden-ganesh-box-large/",
+    "custom_fields": [],
+    "modifiers": [],
+    "options": []
+  }
+]

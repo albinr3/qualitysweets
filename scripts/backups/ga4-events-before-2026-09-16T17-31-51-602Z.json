@@ -1,0 +1,22 @@
+{
+  "captured_at": "2026-09-16T17:31:51.603Z",
+  "before": {
+    "uuid": "6c9ad180-14c8-49f5-a4fd-69b88d628f09",
+    "name": "Quality Sweets GA4 Interaction Events",
+    "description": "GA4 intent and funnel events. Uses the existing Google tag; no customer data is sent.",
+    "html": "<script id=\"qs-ga4-interaction-events-v1\">\n(function () {\n  \"use strict\";\n  var startedCateringQuote = false;\n\n  function pageType() {\n    var path = window.location.pathname.toLowerCase();\n    if (path.indexOf(\"/catering/\") === 0) return \"catering\";\n    if (path.indexOf(\"/menu/\") === 0) return \"takeout_menu\";\n    if (path.indexOf(\"/locations/\") === 0) return \"location\";\n    if (path === \"/contact-us/\") return \"contact\";\n    if (document.querySelector('meta[property=\"og:type\"][content=\"product\"]')) return \"product\";\n    return \"storefront\";\n  }\n\n  function send(name, params) {\n    var eventParams = params || {};\n    eventParams.page_type = eventParams.page_type || pageType();\n    if (typeof window.gtag === \"function\") {\n      window.gtag(\"event\", name, eventParams);\n    }\n  }\n\n  function ctaLocation(link) {\n    if (link.closest(\"header\")) return \"header\";\n    if (link.closest(\"footer\")) return \"footer\";\n    if (link.closest(\".qs-catering\")) return \"catering_content\";\n    if (link.closest(\".qs-menu\")) return \"takeout_menu_content\";\n    return \"page_content\";\n  }\n\n  document.addEventListener(\"click\", function (event) {\n    var link = event.target.closest && event.target.closest(\"a[href]\");\n    if (!link) return;\n    var href = link.getAttribute(\"href\") || \"\";\n    var lowerHref = href.toLowerCase();\n    var params = { cta_location: ctaLocation(link) };\n\n    if (lowerHref.indexOf(\"tel:\") === 0) {\n      send(\"click_call_store\", params);\n    } else if (lowerHref.indexOf(\"mailto:orders@qualitysweetsnj.com\") === 0) {\n      send(\"click_email_orders\", params);\n    } else if (lowerHref.indexOf(\"maps.app.goo.gl\") !== -1 || lowerHref.indexOf(\"google.com/maps\") !== -1) {\n      send(\"click_directions\", params);\n    } else if (lowerHref.indexOf(\"checkout.php\") !== -1) {\n      send(\"begin_checkout\", params);\n    }\n  });\n\n  var cateringForm = document.getElementById(\"b2b-catering-form\");\n  if (cateringForm) {\n    cateringForm.addEventListener(\"focusin\", function () {\n      if (startedCateringQuote) return;\n      startedCateringQuote = true;\n      send(\"catering_quote_start\", { cta_location: \"catering_form\" });\n    });\n    cateringForm.addEventListener(\"change\", function (event) {\n      var target = event.target;\n      if (!target || (target.name !== \"event_type\" && target.name !== \"service\")) return;\n      var value = target.value || \"unspecified\";\n      send(\"select_catering_service\", { cta_location: \"catering_form\", service_type: value });\n    });\n  }\n\n  if (window.location.pathname.toLowerCase().indexOf(\"/menu/\") === 0) {\n    send(\"view_takeout_menu\", { cta_location: \"page_load\" });\n  }\n}());\n</script>",
+    "src": "",
+    "auto_uninstall": true,
+    "load_method": "default",
+    "location": "footer",
+    "visibility": "storefront",
+    "kind": "script_tag",
+    "date_created": "2026-09-16T17:31:22.496Z",
+    "date_modified": "2026-09-16T17:31:22.496Z",
+    "api_client_id": "i44e12sh5gl17fq5578rcp6mls7zo3e",
+    "enabled": true,
+    "consent_category": "essential",
+    "channel_id": 1,
+    "integrity_hashes": []
+  }
+}

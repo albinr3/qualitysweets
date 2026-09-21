@@ -1,0 +1,522 @@
+[
+  {
+    "number": "TSK-01643",
+    "title": "Agregar servicios al gbp",
+    "uuid": "bbb5f664-6b8e-4ede-8196-a4910e2eda11"
+  },
+  {
+    "number": "TSK-01192",
+    "title": "Mejorar subpaginas de /menu/",
+    "uuid": "103a8e02-3e83-4a22-b6f8-e88412112caf"
+  },
+  {
+    "number": "TSK-01172",
+    "title": "4.2B: Set Takeout, Delivery, and Curbside Pickup attributes to YES",
+    "uuid": "23998448-49d6-4ec6-988b-9b89e870e7ec"
+  },
+  {
+    "number": "TSK-01171",
+    "title": "4.2A: Set Dine-in attribute to NO on Google Business Profile",
+    "uuid": "93bba01f-eb37-4d1c-bf33-9656cef3a49a"
+  },
+  {
+    "number": "TSK-01170",
+    "title": "4.1C: Set Secondary categories (Indian takeaway, Vegetarian restaurant, Caterer)",
+    "uuid": "3eeb5b91-b5ad-4d3f-b552-3eb13af2b33a"
+  },
+  {
+    "number": "TSK-01169",
+    "title": "4.1B: Set Primary category to 'Sweet shop' (or 'Indian sweets shop')",
+    "uuid": "f844cd7c-b3c3-4556-a538-7aa7edd66d4a"
+  },
+  {
+    "number": "TSK-01168",
+    "title": "4.1A: Verify GBP address is exactly 1384 Oak Tree Road, Iselin, NJ 08830",
+    "uuid": "cdbc22e2-7969-4bfc-9f34-c2ed32e71697"
+  },
+  {
+    "number": "TSK-01165",
+    "title": "Phase 4 - Step 4.2: Mandatory GBP Service Attributes Configuration",
+    "uuid": "9ce7f73e-216b-4d9d-abbc-4001fdd4f479"
+  },
+  {
+    "number": "TSK-01164",
+    "title": "Phase 4 - Step 4.1: Google Business Profile Address & Category Sanitization",
+    "uuid": "dae4f4ab-d004-4d1c-8abf-11e979c9c4a9"
+  },
+  {
+    "number": "TSK-01160",
+    "title": "3.2A: Configure GA4 key conversion events",
+    "uuid": "ff5148d0-7fb0-4935-a563-7b26e7630fff"
+  },
+  {
+    "number": "TSK-01159",
+    "title": "3.1C: Implement BreadcrumbList schema on all category and product pages",
+    "uuid": "cbbc2898-56b6-4eaf-8808-70ee202be382"
+  },
+  {
+    "number": "TSK-01158",
+    "title": "3.1B: Implement OnlineStore & Product schema (pricing, InStock, shipping details)",
+    "uuid": "74bcbfe6-3889-4129-998e-376e9ddce926"
+  },
+  {
+    "number": "TSK-01157",
+    "title": "3.1A: Implement LocalBusiness & Bakery schema (hasMenu, acceptsReservations: false, geo coords)",
+    "uuid": "77f19b62-bce5-4744-8d39-82d3f82f4c92"
+  },
+  {
+    "number": "TSK-01154",
+    "title": "Phase 3 - Step 3.1: Dual JSON-LD Schema Implementation",
+    "uuid": "1ac502be-f180-412f-9538-a1c50cf59c51"
+  },
+  {
+    "number": "TSK-00508",
+    "title": "Verify tracking / conversion actions",
+    "uuid": "ba6f57ef-6fde-403a-8533-366070d18eac"
+  },
+  {
+    "number": "TSK-00507",
+    "title": "Validate schema / structured data",
+    "uuid": "910a7b5e-da2f-48c0-8ba4-1339a8656aab"
+  },
+  {
+    "number": "TSK-00504",
+    "title": "POST-IMPLEMENTATION QA",
+    "uuid": "0f59acc4-8318-415e-9f01-9bd8f94f14c4"
+  },
+  {
+    "number": "TSK-00501",
+    "title": "Verify GBP business name matches the real-world name; no keyword stuffing",
+    "uuid": "c0cd6d0d-9c59-46c8-89e8-dd3924d43a04"
+  },
+  {
+    "number": "TSK-00496",
+    "title": "Add products / menu when applicable",
+    "uuid": "78d52269-a4ab-429a-82d6-05e622178a68"
+  },
+  {
+    "number": "TSK-00495",
+    "title": "Optimize GBP categories, services, business information and links",
+    "uuid": "822f1f51-1ffb-4f66-89b6-2ee81f31610f"
+  },
+  {
+    "number": "TSK-00494",
+    "title": "Verify public business name / DBA consistency when relevant",
+    "uuid": "f9942493-1961-4443-b61a-051db4891f10"
+  },
+  {
+    "number": "TSK-00489",
+    "title": "Verify NAP consistency",
+    "uuid": "7635bfb2-8076-4ff7-b17d-98bd95501d6f"
+  },
+  {
+    "number": "TSK-00488",
+    "title": "LOCAL LISTINGS + GBP INITIAL OPTIMIZATION",
+    "uuid": "a51967a1-192a-435e-9cb7-2c269112b142"
+  },
+  {
+    "number": "TSK-00487",
+    "title": "Verify important pages are crawlable and indexable",
+    "uuid": "7bea4864-f2e4-47b0-8e7e-080cfd6f941a"
+  },
+  {
+    "number": "TSK-00486",
+    "title": "Review meta robots / noindex directives",
+    "uuid": "ad87a80b-c3c6-41c7-a86a-5c252a35fcd6"
+  },
+  {
+    "number": "TSK-00485",
+    "title": "Review robots.txt",
+    "uuid": "94d1850a-71fd-4870-be13-579a41fdcb6b"
+  },
+  {
+    "number": "TSK-00483",
+    "title": "Verify/create XML sitemap",
+    "uuid": "4096b57d-5ed0-4849-9d0c-11cd012576aa"
+  },
+  {
+    "number": "TSK-00482",
+    "title": "TECHNICAL SEO SETUP",
+    "uuid": "35111715-3a13-457f-abe3-5106d1974b7e"
+  },
+  {
+    "number": "TSK-00481",
+    "title": "Ensure priority commercial content is crawlable HTML",
+    "uuid": "66758c56-21ad-498a-afd9-18437df9080c"
+  },
+  {
+    "number": "TSK-00480",
+    "title": "Review H1 / H2 / H3 hierarchy on priority pages",
+    "uuid": "6df2275d-6020-4439-b511-1a9fd134b229"
+  },
+  {
+    "number": "TSK-00479",
+    "title": "Optimize title tags and meta descriptions on priority pages",
+    "uuid": "720385e1-2695-45f2-94ff-0e2f86e9fbe1"
+  },
+  {
+    "number": "TSK-00478",
+    "title": "Review/implement appropriate schema / structured data",
+    "uuid": "3c77ce13-3e38-48de-a27e-5fed2427edc2"
+  },
+  {
+    "number": "TSK-00477",
+    "title": "Implement / improve internal linking based on page plan",
+    "uuid": "0932a74d-60cc-48fe-b486-9482e3d36d80"
+  },
+  {
+    "number": "TSK-00476",
+    "title": "Create priority new pages when search intent supports them",
+    "uuid": "75c1f453-41c5-4c89-a2a8-ad2f7c81d1ac"
+  },
+  {
+    "number": "TSK-00475",
+    "title": "Optimize existing priority pages",
+    "uuid": "f0c11b33-5355-4976-b24b-16a3918ec4b2"
+  },
+  {
+    "number": "TSK-00474",
+    "title": "Create wireframes when new pages / major restructuring require them",
+    "uuid": "9437ff2d-5257-438b-998f-0bf082060678"
+  },
+  {
+    "number": "TSK-00473",
+    "title": "WEBSITE INITIAL IMPLEMENTATION",
+    "uuid": "a963e3be-fd6f-4503-99c9-3c14d497c05b"
+  },
+  {
+    "number": "TSK-00472",
+    "title": "Plan topic/content clusters when search demand justifies them",
+    "uuid": "c28cbb4d-e607-4b6d-a444-5947661c195d"
+  },
+  {
+    "number": "TSK-00471",
+    "title": "Select Critical / High priorities for initial implementation",
+    "uuid": "5a32c4cc-9cf4-4087-a5ae-61cf8116ee32"
+  },
+  {
+    "number": "TSK-00470",
+    "title": "Define initial 90-day direction",
+    "uuid": "f56d56ee-bc7c-4572-8156-2dc9f4f95f36"
+  },
+  {
+    "number": "TSK-00469",
+    "title": "Identify quick wins",
+    "uuid": "7287315e-ce4d-4529-9390-b0ab8f82bff3"
+  },
+  {
+    "number": "TSK-00468",
+    "title": "Build prioritized SEO backlog",
+    "uuid": "816b05c9-bcc8-4227-a462-2d5a76bd9c44"
+  },
+  {
+    "number": "TSK-00467",
+    "title": "SEO STRATEGY + PRIORITIZATION",
+    "uuid": "714c731e-81ff-49ef-a074-d93e524d3db5"
+  },
+  {
+    "number": "TSK-00466",
+    "title": "Finalize SEO brief before wireframe / implementation",
+    "uuid": "f12e3925-fec5-4c62-a80b-32dd6ee382d4"
+  },
+  {
+    "number": "TSK-00465",
+    "title": "Confirm page scope does not overlap with another target URL",
+    "uuid": "cb6c5315-7273-446c-a390-067152d3501b"
+  },
+  {
+    "number": "TSK-00464",
+    "title": "Note schema opportunities where relevant",
+    "uuid": "b1a2b7e1-b312-4d9b-bc81-a07d72567fce"
+  },
+  {
+    "number": "TSK-00463",
+    "title": "Identify trust / proof elements needed",
+    "uuid": "77ba6fec-ee9f-4ecd-b2c3-3b34fb08cad6"
+  },
+  {
+    "number": "TSK-00462",
+    "title": "Identify relevant FAQs / supporting questions",
+    "uuid": "ae95cee3-f497-45e6-b23a-91913fc3ecd0"
+  },
+  {
+    "number": "TSK-00461",
+    "title": "Define which pages should link to this page",
+    "uuid": "34dfa4f9-5db8-4789-9778-ebaa9e03a819"
+  },
+  {
+    "number": "TSK-00460",
+    "title": "Define internal links the page should include",
+    "uuid": "e87292d0-4c3d-4ead-9ce4-9a7655727571"
+  },
+  {
+    "number": "TSK-00459",
+    "title": "Define supporting CTAs where relevant",
+    "uuid": "88923860-842e-4158-b19a-7a6650f8d7ec"
+  },
+  {
+    "number": "TSK-00458",
+    "title": "Define primary CTA",
+    "uuid": "32284152-f62e-4506-b749-4b6bed0f10af"
+  },
+  {
+    "number": "TSK-00457",
+    "title": "Define main topics / sections the page must cover",
+    "uuid": "c510f42d-aa93-4797-9a7e-5ebd84d0e476"
+  },
+  {
+    "number": "TSK-00456",
+    "title": "Define target audience or user need",
+    "uuid": "8a1dfb99-d499-43d2-89c2-7c41de3a3b39"
+  },
+  {
+    "number": "TSK-00455",
+    "title": "Define page goal / conversion goal",
+    "uuid": "f020fab4-8cab-4fc0-9e0d-4fc06181da15"
+  },
+  {
+    "number": "TSK-00454",
+    "title": "Confirm secondary / supporting keywords",
+    "uuid": "c9b823d4-97ae-4cb9-a2c9-ad34901adaec"
+  },
+  {
+    "number": "TSK-00453",
+    "title": "Confirm primary keyword for each priority page",
+    "uuid": "5d33a4a8-8a9c-4ac5-8abc-290da9e43335"
+  },
+  {
+    "number": "TSK-00452",
+    "title": "PAGE STRATEGY / SEO BRIEFS",
+    "uuid": "2b35dc01-f1a5-4015-9500-3e0aca7c3856"
+  },
+  {
+    "number": "TSK-00451",
+    "title": "Finalize SEO page plan",
+    "uuid": "2eb27289-62b1-4ef7-b8cb-4ef8f0cefe00"
+  },
+  {
+    "number": "TSK-00450",
+    "title": "Validate architecture against keyword cannibalization",
+    "uuid": "685f687d-ee9d-4b3c-8475-20df7ed7ee30"
+  },
+  {
+    "number": "TSK-00449",
+    "title": "Define navigation placement for priority pages",
+    "uuid": "64384342-9d46-4bed-8bb9-58985097d161"
+  },
+  {
+    "number": "TSK-00448",
+    "title": "Define parent / child page relationships",
+    "uuid": "5ee83522-b871-4c5a-bb66-10253db1d165"
+  },
+  {
+    "number": "TSK-00447",
+    "title": "Identify URLs to consolidate / redirect where necessary",
+    "uuid": "82bdf375-27c5-4178-adcc-1ef162cbc7f8"
+  },
+  {
+    "number": "TSK-00446",
+    "title": "Decide which new URLs will be created",
+    "uuid": "e533e17d-a743-4e03-91ee-977c13e938ac"
+  },
+  {
+    "number": "TSK-00445",
+    "title": "Define final target URLs",
+    "uuid": "01221423-3704-4f42-a323-e764617aaa89"
+  },
+  {
+    "number": "TSK-00444",
+    "title": "Decide which existing URLs will be optimized",
+    "uuid": "707d595e-f2fa-4cc3-b01c-a53a187c53c8"
+  },
+  {
+    "number": "TSK-00443",
+    "title": "Review current site structure",
+    "uuid": "7b8b2231-d9ab-43f9-a6b7-c3dc13ea05a4"
+  },
+  {
+    "number": "TSK-00442",
+    "title": "SITE ARCHITECTURE & PAGE PLAN",
+    "uuid": "ccd49037-df47-45cc-bb87-527520416ea8"
+  },
+  {
+    "number": "TSK-00441",
+    "title": "Review crawlability and crawl directives",
+    "uuid": "32bfd718-f683-4fce-ae9b-e7f1aba774a8"
+  },
+  {
+    "number": "TSK-00440",
+    "title": "Review Core Web Vitals / site performance",
+    "uuid": "f7657173-5efe-43fc-89cd-87758e22c54b"
+  },
+  {
+    "number": "TSK-00439",
+    "title": "Review mobile usability",
+    "uuid": "eafa5e98-9ef3-4fa6-8ddf-f04982c04676"
+  },
+  {
+    "number": "TSK-00438",
+    "title": "Technical + indexation audit",
+    "uuid": "c18923fb-c677-4e93-9ea0-f5ad457154c9"
+  },
+  {
+    "number": "TSK-00437",
+    "title": "WEBSITE / TECHNICAL AUDIT",
+    "uuid": "b1c4bbcd-0eea-446d-b601-478c4a921d80"
+  },
+  {
+    "number": "TSK-00436",
+    "title": "Check keyword cannibalization between URLs",
+    "uuid": "eb4d71e6-fc5f-4c75-a892-4d94a0d99c19"
+  },
+  {
+    "number": "TSK-00435",
+    "title": "Identify URLs that should be consolidated or removed",
+    "uuid": "6743ec8e-df99-4983-8411-a2bee9e74134"
+  },
+  {
+    "number": "TSK-00434",
+    "title": "Define which new URLs need to be created",
+    "uuid": "5a8ab1ce-d4af-4ae0-b528-965b42b32cb8"
+  },
+  {
+    "number": "TSK-00433",
+    "title": "Define which existing URLs should be kept or optimized",
+    "uuid": "dfb5edfd-77ba-4cac-a2e7-61de56d63141"
+  },
+  {
+    "number": "TSK-00432",
+    "title": "Assign secondary/supporting keywords to each URL",
+    "uuid": "a6f7436c-6037-4271-b0f0-6ef30a92bc4a"
+  },
+  {
+    "number": "TSK-00431",
+    "title": "Assign primary keyword to each target URL",
+    "uuid": "6bdd05f5-d6d1-4f5a-8d86-bb8f83176bfe"
+  },
+  {
+    "number": "TSK-00429",
+    "title": "KEYWORD & URL MAPPING",
+    "uuid": "b86349cc-51a0-4725-b888-3ab18f940b17"
+  },
+  {
+    "number": "TSK-00428",
+    "title": "Conversion tracking review",
+    "uuid": "0679ed15-03c3-46e2-9084-2e68fe14a6b9"
+  },
+  {
+    "number": "TSK-00427",
+    "title": "Authority / backlink review where relevant",
+    "uuid": "0aa63101-c1fa-409e-bac9-8cda625bd8ee"
+  },
+  {
+    "number": "TSK-00426",
+    "title": "Citation review",
+    "uuid": "475b4031-66a4-4e6f-9199-3c8a89fecdac"
+  },
+  {
+    "number": "TSK-00425",
+    "title": "GBP / local audit",
+    "uuid": "ed217f60-68db-4d40-ae69-0cecff8a73d4"
+  },
+  {
+    "number": "TSK-00422",
+    "title": "RESEARCH",
+    "uuid": "8d35439b-e9f6-454b-9d85-8832ee42e78d"
+  },
+  {
+    "number": "TSK-00421",
+    "title": "Verify website vs GBP attribution where possible",
+    "uuid": "b344372f-ed3c-425b-8e72-f23a1c6f7e31"
+  },
+  {
+    "number": "TSK-00420",
+    "title": "Configure source attribution / UTMs where applicable",
+    "uuid": "f784e81d-2e77-49ed-8fde-5546e676fc49"
+  },
+  {
+    "number": "TSK-00419",
+    "title": "Configure/verify primary conversion tracking",
+    "uuid": "3072dbbe-a98f-40af-a2bb-b268b9d7f28f"
+  },
+  {
+    "number": "TSK-00418",
+    "title": "Define primary conversion actions",
+    "uuid": "089d8a0a-779c-47d0-b04a-471bb2746e9a"
+  },
+  {
+    "number": "TSK-00417",
+    "title": "Track approximately 10–20 primary keywords (not the full keyword universe)",
+    "uuid": "68e2e097-e597-4e72-a9e1-27db9e17b99d"
+  },
+  {
+    "number": "TSK-00415",
+    "title": "TRACKING SETUP",
+    "uuid": "733be52e-c8f7-4730-ab31-6f2638920893"
+  },
+  {
+    "number": "TSK-00414",
+    "title": "Record reviews / technical context",
+    "uuid": "54b1a186-6c54-487f-909e-8d30c5df6894"
+  },
+  {
+    "number": "TSK-00413",
+    "title": "Record target rankings",
+    "uuid": "bb28c3c8-f501-482d-ba93-a2e8124913b8"
+  },
+  {
+    "number": "TSK-00412",
+    "title": "Run local grid baseline",
+    "uuid": "a239cd87-c2b9-49b7-9a6e-b603f4e0f93a"
+  },
+  {
+    "number": "TSK-00411",
+    "title": "Record GBP baseline",
+    "uuid": "dc846f48-a36b-42c1-ad11-0d441ca294d6"
+  },
+  {
+    "number": "TSK-00410",
+    "title": "Record GSC baseline",
+    "uuid": "c8a79b95-ac22-45ff-8af4-2c2c72e5eac0"
+  },
+  {
+    "number": "TSK-00409",
+    "title": "Record GA4 baseline",
+    "uuid": "aced59d0-320b-43cf-b88f-7707c57f6d67"
+  },
+  {
+    "number": "TSK-00408",
+    "title": "Record business KPIs",
+    "uuid": "d4bc1dbe-cd0a-4bbd-b661-89b205c52134"
+  },
+  {
+    "number": "TSK-00407",
+    "title": "BASELINE",
+    "uuid": "0094aa59-6ac9-490c-89df-b7212675f0c5"
+  },
+  {
+    "number": "TSK-00400",
+    "title": "Verify Search Console",
+    "uuid": "102f2610-abae-4b50-8975-65156f39fc37"
+  },
+  {
+    "number": "TSK-00399",
+    "title": "Verify GA4",
+    "uuid": "aa6225a3-f1b4-464d-bbae-4f82e0bb9506"
+  },
+  {
+    "number": "TSK-00398",
+    "title": "Verify GBP access",
+    "uuid": "9962dff9-05a1-440a-85bf-25bc5530b3a8"
+  },
+  {
+    "number": "TSK-00397",
+    "title": "Verify hosting/domain access",
+    "uuid": "3dbc9339-6001-48d1-8352-e644b75c90cd"
+  },
+  {
+    "number": "TSK-00394",
+    "title": "ACCESS",
+    "uuid": "02fd6908-2b93-40bb-ae68-3a73086c5f56"
+  }
+]

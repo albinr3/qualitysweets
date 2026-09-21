@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-09-16T18:59:17.427Z",
+  "providers": {
+    "globalCode": {
+      "id": 6,
+      "channel_id": 0,
+      "name": "Site Verification Tags",
+      "code": "<!-- Google tag (gtag.js) - Google Analytics 4 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-34WFEPDKY8\"></script>\n<script id=\"qs-ga4-interaction-events-v2\">\n(function () {\n  \"use strict\";\n  var startedCateringQuote = false;\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){window.dataLayer.push(arguments);}\n  window.gtag = window.gtag || gtag;\n  window.gtag(\"js\", new Date());\n  window.gtag(\"config\", \"G-34WFEPDKY8\");\n\n  function pageType() {\n    var currentPath = window.location.pathname.toLowerCase();\n    if (currentPath.indexOf(\"/catering/\") === 0) return \"catering\";\n    if (currentPath.indexOf(\"/menu/\") === 0) return \"takeout_menu\";\n    if (currentPath.indexOf(\"/locations/\") === 0) return \"location\";\n    if (currentPath === \"/contact-us/\") return \"contact\";\n    if (document.querySelector('meta[property=\"og:type\"][content=\"product\"]')) return \"product\";\n    return \"storefront\";\n  }\n\n  function send(name, params) {\n    var eventParams = params || {};\n    eventParams.page_type = eventParams.page_type || pageType();\n    if (typeof window.gtag === \"function\") {\n      window.gtag(\"event\", name, eventParams);\n      return;\n    }\n    window.dataLayer = window.dataLayer || [];\n    window.dataLayer.push([\"event\", name, eventParams]);\n  }\n\n  function ctaLocation(link) {\n    if (link.closest(\"header\")) return \"header\";\n    if (link.closest(\"footer\")) return \"footer\";\n    if (link.closest(\".qs-catering\")) return \"catering_content\";\n    if (link.closest(\".qs-menu\")) return \"takeout_menu_content\";\n    return \"page_content\";\n  }\n\n  document.addEventListener(\"click\", function (event) {\n    var link = event.target.closest && event.target.closest(\"a[href]\");\n    if (!link) return;\n    var href = link.getAttribute(\"href\") || \"\";\n    var lowerHref = href.toLowerCase();\n    var params = { cta_location: ctaLocation(link) };\n    if (lowerHref.indexOf(\"tel:\") === 0) send(\"click_call_store\", params);\n    else if (lowerHref.indexOf(\"mailto:orders@qualitysweetsnj.com\") === 0) send(\"click_email_orders\", params);\n    else if (lowerHref.indexOf(\"maps.app.goo.gl\") !== -1 || lowerHref.indexOf(\"google.com/maps\") !== -1) send(\"click_directions\", params);\n    else if (lowerHref.indexOf(\"checkout.php\") !== -1) send(\"begin_checkout\", params);\n  });\n\n  function setupCateringForm() {\n    var cateringForm = document.getElementById(\"b2b-catering-form\");\n    if (!cateringForm) return;\n    cateringForm.addEventListener(\"focusin\", function () {\n      if (startedCateringQuote) return;\n      startedCateringQuote = true;\n      send(\"catering_quote_start\", { cta_location: \"catering_form\" });\n    });\n    cateringForm.addEventListener(\"change\", function (event) {\n      var target = event.target;\n      if (!target || (target.name !== \"event_type\" && target.name !== \"service\")) return;\n      send(\"select_catering_service\", { cta_location: \"catering_form\", service_type: target.value || \"unspecified\" });\n    });\n  }\n\n  if (document.readyState === \"loading\") document.addEventListener(\"DOMContentLoaded\", setupCateringForm);\n  else setupCateringForm();\n  if (window.location.pathname.toLowerCase().indexOf(\"/menu/\") === 0) send(\"view_takeout_menu\", { cta_location: \"page_load\" });\n}());\n</script>",
+      "enabled": true,
+      "data_tag_enabled": false,
+      "version": 0,
+      "api_secret": ""
+    },
+    "affiliateCode": {
+      "id": 7,
+      "channel_id": 0,
+      "name": "Affiliate Conversion Tracking",
+      "code": "",
+      "enabled": false,
+      "data_tag_enabled": false,
+      "version": 1,
+      "api_secret": ""
+    }
+  },
+  "scriptManager": null
+}
