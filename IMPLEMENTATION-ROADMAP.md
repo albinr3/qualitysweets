@@ -47,7 +47,7 @@ gantt
     section Fase 3: Schema & Analítica
     Schema JSON-LD Dual & BreadcrumbList       :2026-10-26, 10d
     Configuración GA4, GSC & Conversiones      :2026-11-02, 7d
-    Google Merchant Center (Free Shopping)     :2026-11-09, 7d
+    [COMPLETADO] Google Merchant Center (Free Shopping) :done, 2026-09-29, 1d
     section Fase 4: SEO Local & Google Maps
     Optimización GBP (Dine-in NO, Takeout SÍ)  :2026-11-16, 10d
     Saneamiento NAP Dirección (1384 vs 1396)   :2026-11-23, 14d
@@ -208,6 +208,7 @@ Al editar cada uno de estos 8 productos en BigCommerce, aplicar las siguientes o
 * Todas las páginas mantienen el aviso de pickup en `1384 Oak Tree Rd, Iselin, NJ 08830`, sin dine-in y sin envío postal para comida caliente o bebidas.
 * Los botones de llamada se eliminaron de las tarjetas individuales; cada subpágina utiliza un único CTA general con medición `click_call_store_menu`.
 * Títulos SEO concisos publicados: `/menu/` (`Takeout Menu: Chaat, Samosas & Mithai | Iselin NJ`), `/menu/chaats/` y `/menu/mithai-counter/`.
+* **Navegación en Cabecera (Header Navigation):** Enlace directo a `Takeout Menu` (`/menu/`) integrado en la barra de navegación principal del header (`.SideCategoryListFlyout > ul.sf-menu`) para desktop y mobile, posicionado antes de *Catering & Bulk Orders* con menú desplegable hacia sus 4 sub-silos (`/menu/chaats/`, `/menu/street-food-snacks/`, `/menu/mithai-counter/`, `/menu/drinks/`). Implementado mediante [scripts/deploy_header_navigation.py](file:///c:/Users/Albin%20Rodr%C3%ADguez/Videos/QualitySweets/scripts/deploy_header_navigation.py).
 
 #### Paso 2.3: Despliegue de la Landing Local (`/locations/iselin-nj/`) — [COMPLETADO EN VIVO - 2026-09-12]
 * **Title Tag:** `Indian Sweets Iselin NJ | Quality Sweets Oak Tree Road (Takeout & Pickup)`
@@ -229,6 +230,7 @@ Al editar cada uno de estos 8 productos en BigCommerce, aplicar las siguientes o
   * `#bulk-samosa-and-party-orders`: Pedidos de 50 a 1,000+ samosas artesanales, pakodas y snacks para fiestas.
   * `#corporate-gifting`: Cajas de mithai para Diwali y obsequios corporativos.
 * El formulario interactivo de cotización B2B y el selector de la *Wedding Tasting Box* por $29 permanecen en `/catering/`, con crédito al reservar.
+* **Galería Fotográfica de Órdenes Reales (`#ready-to-ship`):** Incorporada galería visual limpia con fotos reales de bandejas de catering recién preparadas en cocina (bandejas de samosas 50-1,000+ pcs, jalebi dorado para bodas y templos, Gud Para a granel y Kaju Rolls artesanales en bandejas de acero). Diseño limpio centrado en el producto, textos 100% orientados al cliente sin tecnicismos internos, Schema JSON-LD `CateringService` actualizado y CTA directo a `#quote-form`.
 * Si alguna URL de subservicio hubiera sido publicada previamente, debe redirigirse con **301** a `/catering/`; todo enlace interno y la navegación deben apuntar directamente a la landing unificada.
 
 #### Paso 2.5: Redacción On-Page de las 6 Categorías de E-commerce — [COMPLETADO EN VIVO - 2026-09-15]
@@ -280,7 +282,10 @@ El tema Legacy Blueprint / Coffee se administra mediante los campos de contenido
 
 **Implementación Blueprint (16-09-2026, actualizada 19-09-2026 a v2):** El código global de BigCommerce publica el tag `G-34WFEPDKY8` y los eventos de contacto, catering, `view_item`, `add_to_cart`, `view_cart` y `begin_checkout` en el HTML inicial. El código de conversión de confirmación de pedido (`Affiliate Conversion Tracking`) emite `purchase` con `transaction_id`, total real y moneda USD, utilizando resolución híbrida de máxima compatibilidad (`%%ORDER_ID%%`, `%%GLOBAL_OrderId%%` y fallback de URL) para garantizar ejecución bajo checkout optimizado. La integración nativa GA4 de BigCommerce no es compatible con Blueprint. La confirmación no expone una lista fiable de líneas de pedido en este mecanismo, por lo que `purchase.items` queda deliberadamente vacío hasta disponer de una fuente de líneas de pedido compatible; no se inventan productos ni precios.
 
-#### Paso 3.3: Activación de Google Shopping (Merchant Center Free Listings)
+#### Paso 3.3: Activación de Google Shopping (Merchant Center Free Listings) — [COMPLETADO - 2026-09-29]
+
+> **Estado de Ejecución:** ✅ **Completado el 29 de Septiembre de 2026**.
+
 1. Vincular la tienda de BigCommerce con **Google Merchant Center**.
 2. Subir el feed de productos de dulces, burfis, snacks secos y cajas de regalo para capturar tráfico gratuito en la pestaña de **Google Shopping** para búsquedas como *"buy kaju katli online"*, *"mithai gift box usa"*.
 
