@@ -1,0 +1,906 @@
+[
+  {
+    "url": "https://qualitysweetsnj.com/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/menu/drinks/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/menu/drinks/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/security-and-privacy/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/security-and-privacy/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/about-us",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/about-us",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/menu/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/menu/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/menu/mithai-counter/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/menu/mithai-counter/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/shipping-refunds/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/shipping-refunds/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/blog/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/blog/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/menu/chaats/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/menu/chaats/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/contact-us/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/contact-us/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/packaging-information/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/packaging-information/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/menu/street-food-snacks/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/menu/street-food-snacks/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/locations/iselin-nj/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=pages&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/locations/iselin-nj/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/balushahi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/balushahi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/cream-roll/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/cream-roll/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gulab-jamoon-large/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gulab-jamoon-large/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/mango-sandesh/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/mango-sandesh/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/bengali-kalakand/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/bengali-kalakand/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/assorted-sweets-basket/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/assorted-sweets-basket/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/sakar-para/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/sakar-para/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kala-jamun/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kala-jamun/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/bengali-ladoo-basket-diwali-special/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/bengali-ladoo-basket-diwali-special/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/rose-chum-chum/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/rose-chum-chum/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/channa-mango-malai/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/channa-mango-malai/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gift-wrapped-sweets-basket/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gift-wrapped-sweets-basket/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/golden-ganesh-box-large/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/golden-ganesh-box-large/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/besan-burfi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/besan-burfi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/dry-snack-assortment/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/dry-snack-assortment/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kesar-chum-chum/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kesar-chum-chum/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/carrot-halwa/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/carrot-halwa/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/manpasand/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/manpasand/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/fine-sev/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/fine-sev/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/malai-chum-chum/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/malai-chum-chum/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/small-mathi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/small-mathi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/chenna-murgi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/chenna-murgi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/orange-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/orange-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/pista-sandesh/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/pista-sandesh/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/pista-pan/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/pista-pan/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/cherry-chum-chum/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/cherry-chum-chum/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gud-para/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gud-para/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/malai-sandwich/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/malai-sandwich/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/khoya-kalakand/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/khoya-kalakand/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/rewdi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/rewdi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/red-pepper-cashew-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/red-pepper-cashew-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/petha/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/petha/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/white-peda/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/white-peda/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/10-lb-assorted-sweets-gift-basket/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/10-lb-assorted-sweets-gift-basket/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/sweets-basket/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/sweets-basket/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/holiday-collection-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/holiday-collection-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/rose-angoori-rasgulla/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/rose-angoori-rasgulla/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gold-ganesh-box-small/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gold-ganesh-box-small/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kaju-katli/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kaju-katli/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/patisa/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/patisa/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/unsalted-mathi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/unsalted-mathi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/karva-chauth-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/karva-chauth-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/bengali-red-and-gold-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/bengali-red-and-gold-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/milk-cake/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/milk-cake/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/angoori-gulab-jamun/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/angoori-gulab-jamun/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/badana/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/badana/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gujia/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gujia/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/khoya-pista-burfi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/khoya-pista-burfi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/holiday-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/holiday-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/red-snack-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/red-snack-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/malai-peda/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/malai-peda/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/small-red-and-gold-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/small-red-and-gold-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kahmiri-peeta/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kahmiri-peeta/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/black-pepper-cashew/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/black-pepper-cashew/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/sweets-basket-assortment/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/sweets-basket-assortment/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/besan-ladoo/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/besan-ladoo/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/red-chili-kaju/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/red-chili-kaju/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/coconut-jamun/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/coconut-jamun/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/assorted-sweets-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/assorted-sweets-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/angoori-rasgulla/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/angoori-rasgulla/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/holiday-season-peacock-gift-box-1-5-lbs/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/holiday-season-peacock-gift-box-1-5-lbs/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/anarkali/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/anarkali/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/mixed-sweets-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/mixed-sweets-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kadam-keer/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kadam-keer/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/plain-burfi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/plain-burfi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/mix-burfee-golden-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/mix-burfee-golden-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/assorted-dry-snack-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/assorted-dry-snack-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/thick-sev/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/thick-sev/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/chocolate-burfee/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/chocolate-burfee/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/maysore-pak/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/maysore-pak/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kesar-peda/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kesar-peda/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/malai-jamun/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/malai-jamun/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/blue-gold-holiday-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/blue-gold-holiday-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/pineapple-chum-chum/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/pineapple-chum-chum/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/bengali-sweet-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/bengali-sweet-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/special-assorted-sweets-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/special-assorted-sweets-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/motichur-ladoo/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/motichur-ladoo/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/5-lb-assorted-gift-basket/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/5-lb-assorted-gift-basket/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/kaju-roll/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/kaju-roll/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/purple-gift-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/purple-gift-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/imarti/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/imarti/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/rasgulla-large/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/rasgulla-large/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/snack-mix/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/snack-mix/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/matri-namak-para/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/matri-namak-para/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/gajar-burfi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/gajar-burfi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/mithai-box/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/mithai-box/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/sweet-mathi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/sweet-mathi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/palki/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/palki/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/jalebi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=products&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/jalebi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/catering/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/catering/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/barfi/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/barfi/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/indian-snacks/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/indian-snacks/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/indian-sweets/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/indian-sweets/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/traditional-mithai/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/traditional-mithai/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/ready-made/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/ready-made/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/blog/we-are-open-for-business/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=news&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/blog/we-are-open-for-business/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/blog/follow-us-on-instagram/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=news&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/blog/follow-us-on-instagram/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/savories/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/savories/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/bengali-sweets/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/bengali-sweets/",
+    "noindex": false
+  },
+  {
+    "url": "https://qualitysweetsnj.com/custom/",
+    "sitemap": "https://qualitysweetsnj.com/xmlsitemap.php?type=categories&page=1",
+    "status": 200,
+    "location": null,
+    "canonical": "https://qualitysweetsnj.com/custom/",
+    "noindex": false
+  }
+]
