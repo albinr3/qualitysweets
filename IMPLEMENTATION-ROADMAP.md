@@ -487,7 +487,7 @@ Desplegar 60 días antes de cada festividad con URLs permanentes que no cambian 
 * `/seasonal/holi-sweets-snacks/` (Gujia tradicional fresca, Mathi).
 
 #### Paso 5.2: Optimización para Motores de Inteligencia Artificial (GEO)
-* Crear y publicar el archivo `qualitysweetsnj.com/llms.txt` estructurado con la información de la entidad comercial: historia desde 2003, fundadores, sello "NO PRESERVATIVES", ubicación en Iselin NJ y política de envíos a todo USA.
+* [COMPLETADO] Crear y publicar el archivo `qualitysweetsnj.com/llms.txt` estructurado con la información de la entidad comercial: historia desde 2003, fundadores, sello "NO PRESERVATIVES", ubicación en Iselin NJ y política de envíos a todo USA (desplegado vía redirección 301 canónica en BigCommerce a página raw `/llms`).
 * Estructurar módulos de Preguntas Frecuentes en HTML, con respuestas claras para ChatGPT, Perplexity y Google AI Overviews, sin añadir `FAQPage`.
 
 ---

@@ -1,0 +1,262 @@
+TOTAL TASKS: 247
+DONE TASKS: 202
+
+=== [To Do] Phase 4 - Step 4.4: Fotos, Video y Google Posts en Google Business Profile (0/2 subtasks done) ===
+
+=== [Done] Phase 4 - Step 4.2: Descripción GBP SEO Local (750 caracteres) (0/0 subtasks done) ===
+
+=== [Done] Phase 4 - Step 4.3C: Agregar items del menú takeout al gbp (To-Go) (0/0 subtasks done) ===
+
+=== [To Do] Optimizar para seo todas las imagenes de la web (0/0 subtasks done) ===
+
+=== [Done] Phase 4 - Step 4.3B: Agregar todos los productos al gbp (Catálogo activo) (0/0 subtasks done) ===
+
+=== [Done] Phase 4 - Step 4.3: Agregar servicios al gbp (10 categorías y servicios) (0/0 subtasks done) ===
+
+=== [To Do] hay muchas keywords que no estan siendo atacadas (0/1 subtasks done) ===
+
+=== [Done] Mejorar subpaginas de /menu/ (2/2 subtasks done) ===
+  * [TSK-01194] agregar precios faltantes.
+  * [TSK-01193] mejorar a nivel de diseño
+
+=== [To Do] Phase 5 - Step 5.2: Generative Engine Optimization (GEO) & AI Search (0/2 subtasks done) ===
+
+=== [To Do] Phase 5 - Step 5.1: Evergreen Seasonal Campaign Landings (0/3 subtasks done) ===
+
+=== [To Do] Phase 4 - Step 4.6: Citaciones Locales y Control Mensual (Top 40 Directories) (0/2 subtasks done) ===
+
+=== [To Do] Phase 4 - Step 4.5: Motor Físico y Ético de Reseñas (In-Store QR & Packaging Cards) (0/2 subtasks done) ===
+
+=== [Done] Phase 4 - Step 4.3: Configuración de Atributos GBP (Dine-in NO, Takeout SÍ) (2/2 subtasks done) ===
+  * [TSK-01172] 4.2B: Set Takeout, Delivery, and Curbside Pickup attributes to YES
+  * [TSK-01171] 4.2A: Set Dine-in attribute to NO on Google Business Profile
+
+=== [Done] Phase 4 - Step 4.1: Google Business Profile Address & Category Sanitization (3/3 subtasks done) ===
+  * [TSK-01170] 4.1C: Set Secondary categories (Indian takeaway, Vegetarian restaurant, Caterer)
+  * [TSK-01169] 4.1B: Set Primary category to 'Sweet shop' (or 'Indian sweets shop')
+  * [TSK-01168] 4.1A: Verify GBP address is exactly 1384 Oak Tree Road, Iselin, NJ 08830
+
+=== [To Do] Phase 3 - Step 3.3: Google Merchant Center & Free Shopping Listings (0/2 subtasks done) ===
+
+=== [To Do] Phase 3 - Step 3.2: Analytics & Conversion Tracking Setup (GA4 & GSC) (1/2 subtasks done) ===
+  * [TSK-01160] 3.2A: Configure GA4 key conversion events
+
+=== [Done] Phase 3 - Step 3.1: Dual JSON-LD Schema Implementation (3/3 subtasks done) ===
+  * [TSK-01159] 3.1C: Implement BreadcrumbList schema on all category and product pages
+  * [TSK-01158] 3.1B: Implement OnlineStore & Product schema (pricing, InStock, shipping details)
+  * [TSK-01157] 3.1A: Implement LocalBusiness & Bakery schema (hasMenu, acceptsReservations: false, geo coords)
+
+=== [Done] Phase 2 - Step 2.5: On-Page SEO Copywriting for 6 E-Commerce Categories (6/6 subtasks done) ===
+  * [TSK-01153] 2.5F: Write 400+ words & FAQs for /mithai-box/
+  * [TSK-01152] 2.5E: Write 400+ words & FAQs for /indian-snacks/
+  * [TSK-01151] 2.5D: Write 400+ words & FAQs for /traditional-mithai/
+  * [TSK-01150] 2.5C: Write 400+ words & FAQs for /barfi/
+  * [TSK-01149] 2.5B: Write 400+ words & FAQs for /bengali-sweets/
+  * [TSK-01148] 2.5A: Write 400+ words & FAQs for /indian-sweets/
+
+=== [Done] Phase 2 - Step 2.4: B2B Catering & Corporate Orders Hub (/catering/) (5/5 subtasks done) ===
+  * [TSK-01147] 2.4E: Implement wholesale inquiry lead form & Wedding Tasting Box selector
+  * [TSK-01146] 2.4D: Deploy /catering/bulk-samosa-orders/ sub-landing
+  * [TSK-01145] 2.4C: Deploy /catering/temple-mandir-bulk-prasad/ sub-landing
+  * [TSK-01144] 2.4B: Deploy /catering/wedding-catering-tri-state/ sub-landing
+  * [TSK-01143] 2.4A: Migrate legacy /pages.php?pageid=4 to clean /catering/ hub
+
+=== [Done] Phase 2 - Step 2.3: Iselin Local Store Landing Page (/locations/iselin-nj/) (4/4 subtasks done) ===
+  * [TSK-01142] 2.3D: Upload storefront & fresh counter display photography
+  * [TSK-01141] 2.3C: Add Oak Tree Road parking guide & NYC transit directions (MetroPark)
+  * [TSK-01140] 2.3B: Publish official NAP (1384 Oak Tree Rd) & 7-day store hours (10am-8pm)
+  * [TSK-01139] 2.3A: Set Title, Meta Description & H1 for /locations/iselin-nj/
+
+=== [Done] Phase 2 - Step 2.2: Official Takeout Menu Deployment (/menu/) (5/5 subtasks done) ===
+  * [TSK-01138] 2.2E: Add 'Order ahead via WhatsApp' buttons on all takeout menu items
+  * [TSK-01137] 2.2D: Create /menu/drinks/ sub-page (Mango Lassi, Sweet Lassi, Masala Chai)
+  * [TSK-01136] 2.2C: Create /menu/street-food-snacks/ sub-page (Target: 'samosa near me', 'pani puri near me')
+  * [TSK-01135] 2.2B: Create /menu/chaats/ sub-page (Target: 'chaat near me')
+  * [TSK-01134] 2.2A: Create main /menu/ page with 'Counter Pickup Only - No Dine-In' disclaimer
+
+=== [Done] Phase 2 - Step 2.1: Homepage Redesign (Master Hub) (4/4 subtasks done) ===
+  * [TSK-01133] 2.1D: Add dual store landline & direct WhatsApp ordering button
+  * [TSK-01132] 2.1C: Add authority badges and trust proof elements
+  * [TSK-01131] 2.1B: Add 3-way Hero triage CTAs (Shipping, Takeout, Catering)
+  * [TSK-01130] 2.1A: Update Homepage Title Tag, Meta Description & H1
+
+=== [Done] Phase 1 - Step 1.5: Robots.txt & XML Sitemap Configuration (2/2 subtasks done) ===
+  * [TSK-01124] 1.5B: Submit and verify XML sitemap in Google Search Console with 0 errors
+  * [TSK-01123] 1.5A: Add XML Sitemap directive to BigCommerce robots.txt
+
+=== [Done] Phase 1 - Step 1.4: Configure Shipping Methods & Fulfillment Rules (2/3 subtasks done) ===
+  * [TSK-01122] 1.4C: Configure delicate items (chaats, fresh chum chums) as In-Store Pickup Only with frontend badge
+  * [TSK-01120] 1.4A: Set up Local Store Pickup Zone (Free pickup at 1384 Oak Tree Rd, Iselin NJ)
+
+=== [Done] Phase 1 - Step 1.3: Sanitize 8 In-Store Pick-Up Product Titles & Slugs (8/8 subtasks done) ===
+  * [TSK-01117] Update Product ID 120: Channa Mango Malai -> /channa-mango-malai/
+  * [TSK-01116] Update Product ID 83: Palki -> /palki/
+  * [TSK-01115] Update Product ID 88: Rose Chum Chum -> /rose-chum-chum/
+  * [TSK-01114] Update Product ID 87: Pineapple Chum Chum -> /pineapple-chum-chum/
+  * [TSK-01113] Update Product ID 84: Malai Chum Chum -> /malai-chum-chum/
+  * [TSK-01112] Update Product ID 133: Cherry Chum Chum -> /cherry-chum-chum/
+  * [TSK-01111] Update Product ID 78: Manpasand -> /manpasand/
+  * [TSK-01110] Update Product ID 80: Anarkali -> /anarkali/
+
+=== [Done] Phase 1 - Step 1.2: Forensic 301 Redirects Verification & Legacy Template Cleanup (3/3 subtasks done) ===
+  * [TSK-01108] 1.2C: Inject missing 301 redirects for /bulk-corporate-orders/ to /catering/
+  * [TSK-01107] 1.2B: Clean up and remap legacy Megnor theme demo redirects
+  * [TSK-01106] 1.2A: Audit and verify HTTP 301 responses on all core category routes
+
+=== [Done] Phase 1 - Step 1.1: Root URL Structure & Category Renaming (2/2 subtasks done) ===
+  * [TSK-01104] 1.1B: Rename categories & slugs to canonical root URLs via BigCommerce REST API (IDs 3, 8, 22, 2, 1, 14, 21)
+  * [TSK-01103] 1.1A: Configure 'SEO Optimized (Short)' in Store Setup & enable automatic 301 redirects
+
+=== [To Do] REPORTING (0/6 subtasks done) ===
+
+=== [Done] POST-IMPLEMENTATION QA (2/5 subtasks done) ===
+  * [TSK-00508] Verify tracking / conversion actions
+  * [TSK-00507] Validate schema / structured data
+
+=== [Done] LOCAL LISTINGS + GBP INITIAL OPTIMIZATION (5/15 subtasks done) ===
+  * [TSK-00501] Verify GBP business name matches the real-world name; no keyword stuffing
+  * [TSK-00496] Add products / menu when applicable
+  * [TSK-00495] Optimize GBP categories, services, business information and links
+  * [TSK-00494] Verify public business name / DBA consistency when relevant
+  * [TSK-00489] Verify NAP consistency
+
+=== [Done] TECHNICAL SEO SETUP (5/5 subtasks done) ===
+  * [TSK-00487] Verify important pages are crawlable and indexable
+  * [TSK-00486] Review meta robots / noindex directives
+  * [TSK-00485] Review robots.txt
+  * [TSK-00484] Submit/verify XML sitemap in Google Search Console
+  * [TSK-00483] Verify/create XML sitemap
+
+=== [Done] WEBSITE INITIAL IMPLEMENTATION (8/8 subtasks done) ===
+  * [TSK-00481] Ensure priority commercial content is crawlable HTML
+  * [TSK-00480] Review H1 / H2 / H3 hierarchy on priority pages
+  * [TSK-00479] Optimize title tags and meta descriptions on priority pages
+  * [TSK-00478] Review/implement appropriate schema / structured data
+  * [TSK-00477] Implement / improve internal linking based on page plan
+  * [TSK-00476] Create priority new pages when search intent supports them
+  * [TSK-00475] Optimize existing priority pages
+  * [TSK-00474] Create wireframes when new pages / major restructuring require them
+
+=== [Done] SEO STRATEGY + PRIORITIZATION (5/5 subtasks done) ===
+  * [TSK-00472] Plan topic/content clusters when search demand justifies them
+  * [TSK-00471] Select Critical / High priorities for initial implementation
+  * [TSK-00470] Define initial 90-day direction
+  * [TSK-00469] Identify quick wins
+  * [TSK-00468] Build prioritized SEO backlog
+
+=== [Done] PAGE STRATEGY / SEO BRIEFS (14/14 subtasks done) ===
+  * [TSK-00466] Finalize SEO brief before wireframe / implementation
+  * [TSK-00465] Confirm page scope does not overlap with another target URL
+  * [TSK-00464] Note schema opportunities where relevant
+  * [TSK-00463] Identify trust / proof elements needed
+  * [TSK-00462] Identify relevant FAQs / supporting questions
+  * [TSK-00461] Define which pages should link to this page
+  * [TSK-00460] Define internal links the page should include
+  * [TSK-00459] Define supporting CTAs where relevant
+  * [TSK-00458] Define primary CTA
+  * [TSK-00457] Define main topics / sections the page must cover
+  * [TSK-00456] Define target audience or user need
+  * [TSK-00455] Define page goal / conversion goal
+  * [TSK-00454] Confirm secondary / supporting keywords
+  * [TSK-00453] Confirm primary keyword for each priority page
+
+=== [Done] SITE ARCHITECTURE & PAGE PLAN (9/9 subtasks done) ===
+  * [TSK-00451] Finalize SEO page plan
+  * [TSK-00450] Validate architecture against keyword cannibalization
+  * [TSK-00449] Define navigation placement for priority pages
+  * [TSK-00448] Define parent / child page relationships
+  * [TSK-00447] Identify URLs to consolidate / redirect where necessary
+  * [TSK-00446] Decide which new URLs will be created
+  * [TSK-00445] Define final target URLs
+  * [TSK-00444] Decide which existing URLs will be optimized
+  * [TSK-00443] Review current site structure
+
+=== [Done] WEBSITE / TECHNICAL AUDIT (4/4 subtasks done) ===
+  * [TSK-00441] Review crawlability and crawl directives
+  * [TSK-00440] Review Core Web Vitals / site performance
+  * [TSK-00439] Review mobile usability
+  * [TSK-00438] Technical + indexation audit
+
+=== [Done] KEYWORD & URL MAPPING (7/7 subtasks done) ===
+  * [TSK-00436] Check keyword cannibalization between URLs
+  * [TSK-00435] Identify URLs that should be consolidated or removed
+  * [TSK-00434] Define which new URLs need to be created
+  * [TSK-00433] Define which existing URLs should be kept or optimized
+  * [TSK-00432] Assign secondary/supporting keywords to each URL
+  * [TSK-00431] Assign primary keyword to each target URL
+  * [TSK-00430] Group keywords by search intent / topic
+
+=== [Done] RESEARCH (6/6 subtasks done) ===
+  * [TSK-00428] Conversion tracking review
+  * [TSK-00427] Authority / backlink review where relevant
+  * [TSK-00426] Citation review
+  * [TSK-00425] GBP / local audit
+  * [TSK-00424] Competitor + SERP research
+  * [TSK-00423] Keyword research (Ubersuggest / Keyword Planner + GSC / SERPs when available)
+
+=== [Done] TRACKING SETUP (6/6 subtasks done) ===
+  * [TSK-00421] Verify website vs GBP attribution where possible
+  * [TSK-00420] Configure source attribution / UTMs where applicable
+  * [TSK-00419] Configure/verify primary conversion tracking
+  * [TSK-00418] Define primary conversion actions
+  * [TSK-00417] Track approximately 10–20 primary keywords (not the full keyword universe)
+  * [TSK-00416] Create/verify Ubersuggest project for the site
+
+=== [Done] BASELINE (7/7 subtasks done) ===
+  * [TSK-00414] Record reviews / technical context
+  * [TSK-00413] Record target rankings
+  * [TSK-00412] Run local grid baseline
+  * [TSK-00411] Record GBP baseline
+  * [TSK-00410] Record GSC baseline
+  * [TSK-00409] Record GA4 baseline
+  * [TSK-00408] Record business KPIs
+
+=== [Done] BUSINESS / MARKET CONTEXT (3/3 subtasks done) ===
+  * [TSK-00406] Identify priority cities / neighborhoods and realistic local reach
+  * [TSK-00405] Define realistic service area / customer travel radius
+  * [TSK-00404] Review services/products and business priorities
+
+=== [Done] ACCESS (8/8 subtasks done) ===
+  * [TSK-00402] Move passwords to Bitwarden
+  * [TSK-00401] Verify other required platforms
+  * [TSK-00400] Verify Search Console
+  * [TSK-00399] Verify GA4
+  * [TSK-00398] Verify GBP access
+  * [TSK-00397] Verify hosting/domain access
+  * [TSK-00396] Verify website/CMS access
+  * [TSK-00395] Review onboarding questionnaire
+
+=== [Done] ACTIVATION (3/3 subtasks done) ===
+  * [TSK-00393] Send Welcome Email + onboarding form
+  * [TSK-00392] Save Drive link in Bonsai
+  * [TSK-00391] Create Drive folder
+
+=== [Done] HANDOFF TO SEO (5/5 subtasks done) ===
+  * [TSK-00389] Continue with Template A — NEW SEO CLIENT
+  * [TSK-00388] Schedule recurring billing from the next cycle; do not duplicate the first month
+  * [TSK-00387] Set SEO project start date = SEO Start Date
+  * [TSK-00386] SEO Start Date = payment date
+  * [TSK-00385] Confirm first payment
+
+=== [Done] FIRST INVOICE (4/4 subtasks done) ===
+  * [TSK-00383] Do not start SEO before payment
+  * [TSK-00382] Send invoice + payment link
+  * [TSK-00381] If Website + SEO, invoice each scope according to the contract
+  * [TSK-00380] Create first SEO invoice linked to the SEO project
+
+=== [Done] CONTRACT (6/6 subtasks done) ===
+  * [TSK-00378] Set status SIGNED - AWAITING PAYMENT
+  * [TSK-00377] Confirm client signature
+  * [TSK-00376] Send contract from Bonsai
+  * [TSK-00375] Link contract/agreement to the appropriate projectLink Link contract/agreement to the appropriate project
+  * [TSK-00374] Verify client/contact, scope, fee, term, payment terms and responsibilities
+  * [TSK-00373] Create contract/agreement from the correct template
+
+=== [Done] CLIENT SETUP (6/6 subtasks done) ===
+  * [TSK-00371] Set status CLIENT ACCEPTED - CONTRACT PENDING
+  * [TSK-00370] If website is a separate scope, create “Website Development — [Business Name]” project
+  * [TSK-00369] Create “Local SEO — [Business Name]” project
+  * [TSK-00368] Create/verify primary Contact and set default contact
+  * [TSK-00367] Create/verify Company in Bonsai
+  * [TSK-00366] Confirm service(s), scope and price agreed
+
