@@ -32,7 +32,7 @@ La **Homepage (`/`) es el Master Hub y Núcleo de Autoridad**. Concentra más de
          ├─ /menu/chaats/       ├─ ↳ /bengali-sweets/  ├─ ↳ bodas y regalos  ├─ /seasonal/karwa     ├─ /in-the-media/
          ├─ /menu/street-food/  ├─ ↳ /barfi/           ├─ ↳ templos y prasad ├─ /seasonal/rakhi     ├─ /freshness-guarantee/
          ├─ /menu/mithai/       ├─ ↳ /traditional-mithai/  └─ ↳ samosas por volumen └─ /seasonal/holi ├─ /shipping-delivery/
-         └─ /locations/iselin/  ├─ /indian-snacks/                                                 └─ /contact/ & WhatsApp
+         └─ /locations/iselin/  ├─ /indian-snacks/                                                 └─ /contact/
                                 ├─ /mithai-box/
                                 └─ /<product-slug>/...
 ```
@@ -51,6 +51,9 @@ qualitysweetsnj.com/
 │   ├── /locations/iselin-nj/                 (Página local de tienda: mapa, horarios 10am-8pm, estacionamiento en Oak Tree Rd, takeout)
 │   │                                         *Target: "indian sweets new jersey" (140/mes), "indian sweets edison nj" (110/mes), "iselin nj"*
 │   ├── /menu/                                (Carta completa oficial de mostrador para llevar: Chaat, Street Food, Dulces y Bebidas)
+│   │   ├── /menu/samosas/                    (Página dedicada: Samosa individual $1.75, Samosa Chaat $8.00, Bandejas de fiesta 50-1000+)
+│   │   ├── /menu/pani-puri/                  (Página dedicada: Kits To-Go $8.00, Dahi Puri $8.00, Packs de fiesta 30-100 piezas)
+│   │   ├── /menu/chole-bhatura/               (Página dedicada: Chole Bhatura $9.00, Chole Puri $9.00, Bandejas familiares $42.50 / $80.00)
 │   │   ├── /menu/chaats/                     (Samosa Chaat, Kachori Chaat, Papri Chaat, Aloo Tikki Chaat, Pakoda Chaat)
 │   │   ├── /menu/street-food-snacks/         (Pani Puri, Dahi Puri, Dahi Bhalla, Chole Bhatura, Chole Puri, Samosa casera, 
 │   │   │                                      Paneer Pakoda, Cut Mirchy Pakoda, Dhokla, Aloo Tikki, Aloo Paratha, Ghobi Paratha)
@@ -122,7 +125,7 @@ qualitysweetsnj.com/
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │ [TOP BAR]: 🚚 Free Express Shipping on orders $60+ | NO PRESERVATIVES   │
-│ [NAVBAR]: Logo | Shop Online (USA) | Takeout Menu (Iselin) | Catering | WhatsApp│
+│ [NAVBAR]: Logo | Shop Online (USA) | Takeout Menu (Iselin) | Catering | Contact │
 ├────────────────────────────────────────────────────────────────────────┤
 │ [HERO SECTION]:                                                        │
 │   H1: Authentic Indian Sweet Shop — Handcrafted Mithai & Hot Snacks Daily│
@@ -148,7 +151,7 @@ qualitysweetsnj.com/
 │   *Nota destacada: Order ahead for pickup at 1384 Oak Tree Rd (No Dine-In)*│
 │   - Pani Puri, Dahi Bhalla, Chole Bhatura, Samosas recién hechas       │
 │   - Horarios: 7 días, 10:00 AM - 8:00 PM                               │
-│   [Button: View Full Takeout Menu -> /menu/] [Button: Order via WhatsApp]│
+│   [Button: View Full Takeout Menu -> /menu/] [Button: Call to Order -> tel:(732) 283-3799]│
 ├────────────────────────────────────────────────────────────────────────┤
 │ [B2B & EVENTOS REGIONALES (NJ, NY, CT)]:                               │
 │   H2: Authentic Mithai & Samosas for Weddings, Mandirs & Bulk Events   │
@@ -164,7 +167,7 @@ qualitysweetsnj.com/
 │   - Reseñas verificadas de Google y compradores online                 │
 ├────────────────────────────────────────────────────────────────────────┤
 │ [FOOTER SEO ESTRUCTURADO]:                                             │
-│   - Columna 1: Dirección oficial en Iselin, teléfono, WhatsApp y mapa  │
+│   - Columna 1: Dirección oficial en Iselin, teléfono, horario y mapa   │
 │   - Columna 2: Categorías de e-commerce (dulces, burfis, snacks, cajas)│
 │   - Columna 3: Carta de Takeout & Recogida (Chaats, Samosas, Parathas) │
 │   - Columna 4: Catering Tri-State, Prensa, Envíos y FAQ                │
@@ -179,7 +182,7 @@ Confirmación oficial del modelo operativo: **NADA de la comida preparada ni beb
 
 | Grupo de Productos | ¿Se Envía a Todo USA? | ¿Disponible para Takeout / Pickup? | URL / Destino en la Web | Regla Técnica en BigCommerce & Comportamiento UI |
 |---|:---:|:---:|---|---|
-| **Comida Caliente & Chaats**<br>*(Samosas, Pani Puri, Chole Bhatura, Parathas, Lassis)* | ❌ **NO** | ✅ **SÍ (Exclusivo)** | `/menu/` *(Chaats, Street food, Drinks)* | **Non-Shippable:** En el checkout solo permite *"In-Store Pickup / Takeout"*. La UI muestra botón *"Order for Pickup / WhatsApp"* con aviso: *"Prepared hot daily — Iselin pickup only"*. |
+| **Comida Caliente & Chaats**<br>*(Samosas, Pani Puri, Chole Bhatura, Parathas, Lassis)* | ❌ **NO** | ✅ **SÍ (Exclusivo)** | `/menu/` *(Chaats, Street food, Drinks)* | **Non-Shippable:** En el checkout solo permite *"In-Store Pickup / Takeout"*. La UI muestra botón *"Call to Order / Pickup"* con aviso: *"Prepared hot daily — Iselin pickup only"*. |
 | **All Indian Sweets (Catálogo Madre)**<br>*(Vitrina completa de 52 variedades de dulces)* | ✅ **SÍ** *(Con empaque térmico)* | ✅ **SÍ** | `/indian-sweets/`<br>y vitrina de tienda | **Shippable & Pickup:** Vista de catálogo completa con selector de entrega y filtros por subcategoría. |
 | **Dulces Bengalíes (Subcategoría 1)**<br>*(Chum Chum, Rasgulla, Sandesh, Kalakand)* | ✅ **SÍ** *(Con ice packs)* | ✅ **SÍ** | `/bengali-sweets/`<br>y vitrina de mostrador | **Shippable & Pickup:** La UI muestra el selector: `[ 🚚 Ship Nationwide ]` o `[ 🏪 Pick up in Iselin, NJ ]`. Empaque térmico con hielo seco. |
 | **Barfi & Kaju Katli (Subcategoría 2)**<br>*(Kaju Katli puro, Milk Cake, Pista Burfi)* | ✅ **SÍ** | ✅ **SÍ** | `/barfi/`<br>y vitrina de mostrador | **Shippable & Pickup:** Alta resistencia al transporte de 2-3 días. Selector dual de entrega. |

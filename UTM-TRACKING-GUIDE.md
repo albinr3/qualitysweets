@@ -1,7 +1,7 @@
 # Guía Oficial de Estructura y Nomenclatura de UTMs (Quality Sweets)
 
 **Sitio web:** `https://qualitysweetsnj.com`  
-**Objetivo:** Estandarizar el etiquetado de enlaces externos para atribuir con total precisión el tráfico y las conversiones en Google Analytics 4 (GA4) provenientes de Google Business Profile (GBP), empaques físicos (códigos QR), difusión en WhatsApp, redes sociales y campañas directas.
+**Objetivo:** Estandarizar el etiquetado de enlaces externos para atribuir con total precisión el tráfico y las conversiones en Google Analytics 4 (GA4) provenientes de Google Business Profile (GBP), empaques físicos (códigos QR), redes sociales, boletines de correo y campañas directas.
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Parámetro | Obligatorio | Descripción y Función | Ejemplo |
 |---|---|---|---|
-| `utm_source` | **Sí** | Plataforma o herramienta que origina el clic. | `google_business_profile`, `whatsapp`, `packaging_qr` |
+| `utm_source` | **Sí** | Plataforma o herramienta que origina el clic. | `google_business_profile`, `email_newsletter`, `packaging_qr` |
 | `utm_medium` | **Sí** | Medio o canal de distribución del tráfico. | `organic`, `offline`, `social_messaging` |
 | `utm_campaign` | **Sí** | Nombre específico de la iniciativa, festival o campaña. | `gbp_local`, `gbp_diwali`, `sweet_box_insert` |
 | `utm_content` | Opcional | Elemento específico sobre el que se hizo clic o variante. | `website_button`, `menu_button`, `reorder_sweets` |
@@ -98,17 +98,17 @@ Medición de clientes que ya compran en tienda y escanean el código QR en las c
 
 ---
 
-### 3.4. WhatsApp y Mensajería Directa (Pedidos de Mostrador y Avisos)
+### 3.4. Boletines de Correo Electrónico y Campañas de Fidelización (Email Marketing)
 
-* **Lista de difusión de especiales de fin de semana (Takeout):**
+* **Boletín de especiales de fin de semana (Takeout):**
   * **Destino:** `/menu/`
   * **URL:**  
-    `https://qualitysweetsnj.com/menu/?utm_source=whatsapp&utm_medium=social_messaging&utm_campaign=weekend_takeout&utm_content=specials_broadcast`
+    `https://qualitysweetsnj.com/menu/?utm_source=email_newsletter&utm_medium=email&utm_campaign=weekend_takeout&utm_content=specials_blast`
 
 * **Preventa de cajas festivas (Diwali, Karwa Chauth, Holi):**
   * **Destino:** `/mithai-box/`
   * **URL:**  
-    `https://qualitysweetsnj.com/mithai-box/?utm_source=whatsapp&utm_medium=social_messaging&utm_campaign=festival_preorder&utm_content=whatsapp_broadcast`
+    `https://qualitysweetsnj.com/mithai-box/?utm_source=email_newsletter&utm_medium=email&utm_campaign=festival_preorder&utm_content=festival_blast`
 
 ---
 
@@ -133,8 +133,8 @@ Medición de clientes que ya compran en tienda y escanean el código QR en las c
 | **GBP Post Semanal** | `google_business_profile` | `organic` | `gbp_{slug}` | *(vacío)* | Variable según publicación |
 | **QR Caja de Dulces** | `packaging_qr` | `offline` | `sweet_box_insert` | `reorder_sweets` | `/mithai-box/` |
 | **QR Bolsa Takeout** | `packaging_qr` | `offline` | `takeout_bag_insert` | `view_menu` | `/menu/` |
-| **WhatsApp Especiales** | `whatsapp` | `social_messaging` | `weekend_takeout` | `specials_broadcast` | `/menu/` |
-| **WhatsApp Festivo** | `whatsapp` | `social_messaging` | `festival_preorder` | `whatsapp_broadcast` | `/mithai-box/` |
+| **Email Especiales** | `email_newsletter` | `email` | `weekend_takeout` | `specials_blast` | `/menu/` |
+| **Email Festivo** | `email_newsletter` | `email` | `festival_preorder` | `festival_blast` | `/mithai-box/` |
 | **Instagram Bio (Menú)**| `instagram` | `social` | `bio_link` | `menu_button` | `/menu/` |
 | **Instagram Bio (Dulces)**| `instagram` | `social` | `bio_link` | `shop_sweets` | `/indian-sweets/` |
 
@@ -150,7 +150,7 @@ Medición de clientes que ya compran en tienda y escanean el código QR en las c
      * `medium` / `session_medium`: según el valor de `utm_medium`.
      * `campaign` / `session_campaign`: según el valor de `utm_campaign`.
 2. **Cruce con Eventos de Conversión:**
-   * Al estar configurados los eventos clave del sitio ([deploy_ga4_native_3_2.js](file:///c:/Users/Albin%20Rodriguez/Documents/QualitySweets/scripts/deploy_ga4_native_3_2.js)), en los informes de exploración se podrá filtrar qué campañas de GBP, QR o WhatsApp generaron:
+   * Al estar configurados los eventos clave del sitio ([deploy_ga4_native_3_2.js](file:///c:/Users/Albin%20Rodriguez/Documents/QualitySweets/scripts/deploy_ga4_native_3_2.js)), en los informes de exploración se podrá filtrar qué campañas de GBP, QR o Email generaron:
      * `click_call_store` (Llamadas telefónicas)
      * `click_directions` (Solicitud de ruta en Google Maps)
      * `view_takeout_menu` (Visualizaciones del menú para llevar)

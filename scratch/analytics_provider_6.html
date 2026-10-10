@@ -1,0 +1,289 @@
+<!-- Google tag (gtag.js) - Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-34WFEPDKY8"></script>
+<script id="qs-ga4-interaction-events-v2">
+(function () {
+  "use strict";
+  var startedCateringQuote = false;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  window.gtag = window.gtag || gtag;
+  window.gtag("js", new Date());
+  window.gtag("config", "G-34WFEPDKY8");
+
+  function pageType() {
+    var currentPath = window.location.pathname.toLowerCase();
+    if (currentPath.indexOf("/catering/") === 0) return "catering";
+    if (currentPath.indexOf("/menu/") === 0) return "takeout_menu";
+    if (currentPath.indexOf("/locations/") === 0) return "location";
+    if (currentPath === "/contact-us/") return "contact";
+    if (document.querySelector('meta[property="og:type"][content="product"]')) return "product";
+    return "storefront";
+  }
+
+  function send(name, params) {
+    var eventParams = params || {};
+    eventParams.page_type = eventParams.page_type || pageType();
+    if (typeof window.gtag === "function") {
+      window.gtag("event", name, eventParams);
+      return;
+    }
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(["event", name, eventParams]);
+  }
+
+  function ctaLocation(link) {
+    if (link.closest("header")) return "header";
+    if (link.closest("footer")) return "footer";
+    if (link.closest(".qs-catering")) return "catering_content";
+    if (link.closest(".qs-menu")) return "takeout_menu_content";
+    return "page_content";
+  }
+
+  document.addEventListener("click", function (event) {
+    var link = event.target.closest && event.target.closest("a[href]");
+    if (!link) return;
+    var href = link.getAttribute("href") || "";
+    var lowerHref = href.toLowerCase();
+    var params = { cta_location: ctaLocation(link) };
+    if (lowerHref.indexOf("tel:") === 0) send("click_call_store", params);
+    else if (lowerHref.indexOf("mailto:orders@qualitysweetsnj.com") === 0) send("click_email_orders", params);
+    else if (lowerHref.indexOf("maps.app.goo.gl") !== -1 || lowerHref.indexOf("google.com/maps") !== -1) send("click_directions", params);
+    else if (lowerHref.indexOf("cart.php?action=add") !== -1) {
+      var directProductMatch = lowerHref.match(/[?&]product_id=(\d+)/);
+      send("add_to_cart", { cta_location: ctaLocation(link), items: directProductMatch ? [{ item_id: directProductMatch[1] }] : [] });
+    }
+    else if (lowerHref.indexOf("checkout.php") !== -1) send("begin_checkout", params);
+  });
+
+  function productItem(form) {
+    if (!form) return null;
+    var input = form.querySelector('input[name="product_id"]');
+    if (!input || !input.value) return null;
+    var heading = document.querySelector('#ProductDetails h1, .PrimaryProductDetails h1, h1');
+    var item = { item_id: input.value };
+    if (heading && heading.textContent.trim()) item.item_name = heading.textContent.trim();
+    return item;
+  }
+
+  function setupEcommerceEvents() {
+    var productForm = document.getElementById("productDetailsAddToCartForm");
+    var item = productItem(productForm);
+    if (item) {
+      send("view_item", { items: [item] });
+      productForm.addEventListener("submit", function () { send("add_to_cart", { items: [item] }); });
+    }
+    if (window.location.pathname.toLowerCase().indexOf("/cart.php") === 0 && window.location.search.toLowerCase().indexOf("action=add") === -1) send("view_cart", { items: [] });
+  }
+
+  function setupCateringForm() {
+    var cateringForm = document.getElementById("b2b-catering-form");
+    if (!cateringForm) return;
+    cateringForm.addEventListener("focusin", function () {
+      if (startedCateringQuote) return;
+      startedCateringQuote = true;
+      send("catering_quote_start", { cta_location: "catering_form" });
+    });
+    cateringForm.addEventListener("change", function (event) {
+      var target = event.target;
+      if (!target || (target.name !== "event_type" && target.name !== "service")) return;
+      send("select_catering_service", { cta_location: "catering_form", service_type: target.value || "unspecified" });
+    });
+  }
+
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", function () { setupCateringForm(); setupEcommerceEvents(); });
+  else { setupCateringForm(); setupEcommerceEvents(); }
+  if (window.location.pathname.toLowerCase().indexOf("/menu/") === 0) send("view_takeout_menu", { cta_location: "page_load" });
+}());
+</script>
+<script id="qs-footer-nap">
+(function () {
+  function applyFooterStructure() {
+    var footerUpper = document.getElementById('FooterUpper');
+    if (!footerUpper) return;
+
+    // 1. Ensure NAP in Column 0 (Contact)
+    var contact = footerUpper.querySelector('.Column.contact .custom_content') || 
+                  document.querySelector('#block_2 .custom_content');
+    if (contact && !contact.querySelector('.qs-footer-nap-name')) {
+      if (!contact.getAttribute('itemscope')) {
+        contact.setAttribute('itemscope', '');
+        contact.setAttribute('itemtype', 'https://schema.org/SweetShop');
+      }
+      var nameEl = document.createElement('div');
+      nameEl.className = 'qs-footer-nap-name';
+      nameEl.setAttribute('itemprop', 'name');
+      nameEl.textContent = 'Quality Sweets - Indian Sweets Shop';
+      nameEl.style.cssText = 'color: #ffd700; font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 700; font-size: 14.5px; line-height: 1.35; margin-bottom: 5px; display: block; letter-spacing: 0.2px;';
+      
+      var icon1 = contact.querySelector('.icon1');
+      if (icon1) {
+        if (!icon1.getAttribute('itemprop')) {
+          icon1.setAttribute('itemprop', 'address');
+          icon1.setAttribute('itemscope', '');
+          icon1.setAttribute('itemtype', 'https://schema.org/PostalAddress');
+        }
+        contact.insertBefore(nameEl, icon1);
+      } else {
+        contact.prepend(nameEl);
+      }
+      var icon2 = contact.querySelector('.icon2');
+      if (icon2 && !icon2.getAttribute('itemprop')) icon2.setAttribute('itemprop', 'telephone');
+      var icon3Link = contact.querySelector('.icon3 a');
+      if (icon3Link && !icon3Link.getAttribute('itemprop')) icon3Link.setAttribute('itemprop', 'email');
+    }
+
+    // 2. Transform Link Columns (Shop, Visit & Order, About & Help)
+    if (!footerUpper.querySelector('#qs-footer-shop')) {
+      var columns = footerUpper.querySelectorAll(':scope > .Column');
+      if (columns.length >= 3) {
+        // Column 1: Shop
+        var colShop = columns[1];
+        if (colShop) {
+          colShop.className = 'Column qs-col-shop';
+          colShop.innerHTML = [
+            '<div class="footer-area Block" id="qs-footer-shop">',
+            '  <h2>Shop</h2>',
+            '  <div class="custom_content BlockContent">',
+            '    <ul>',
+            '      <li><a href="/indian-sweets/">All Indian Sweets</a></li>',
+            '      <li><a href="/barfi/">Barfi &amp; Kaju Katli</a></li>',
+            '      <li><a href="/bengali-sweets/">Bengali Sweets</a></li>',
+            '      <li><a href="/indian-snacks/">Indian Snacks &amp; Namkeen</a></li>',
+            '      <li><a href="/mithai-box/">Mithai Boxes &amp; Gift Baskets</a></li>',
+            '    </ul>',
+            '  </div>',
+            '</div>'
+          ].join('\n');
+        }
+
+        // Column 2: Visit & Order
+        var colVisit = columns[2];
+        if (colVisit) {
+          colVisit.className = 'Column qs-col-visit';
+          colVisit.innerHTML = [
+            '<div class="footer-area Block" id="qs-footer-visit">',
+            '  <h2>Visit &amp; Order</h2>',
+            '  <div class="custom_content BlockContent">',
+            '    <ul>',
+            '      <li><a href="/menu/">Takeout Menu</a></li>',
+            '      <li><a href="/catering/">Catering &amp; Bulk Orders</a></li>',
+            '      <li><a href="/locations/iselin-nj/">Quality Sweets Iselin NJ Store</a></li>',
+            '      <li><a href="/contact-us/">Contact Us</a></li>',
+            '    </ul>',
+            '  </div>',
+            '</div>'
+          ].join('\n');
+        }
+
+        // Column 3: About & Help (Column last)
+        var colAbout = columns.length >= 4 ? columns[3] : document.createElement('div');
+        colAbout.className = 'Column last qs-col-about';
+        colAbout.style.display = 'block';
+        colAbout.innerHTML = [
+          '<div class="footer-area Block" id="qs-footer-about">',
+          '  <h2>About &amp; Help</h2>',
+          '  <div class="custom_content BlockContent">',
+          '    <ul>',
+          '      <li><a href="/about-us/">About Us</a></li>',
+          '      <li><a href="/shipping-refunds/">Shipping &amp; Refunds</a></li>',
+          '      <li><a href="/packaging-information/">Packaging Information</a></li>',
+          '      <li><a href="/security-and-privacy/">Security &amp; Privacy</a></li>',
+          '      <li><a href="/blog/">Blog</a></li>',
+          '      <li><a href="/sitemap/">Sitemap</a></li>',
+          '    </ul>',
+          '  </div>',
+          '</div>'
+        ].join('\n');
+        if (columns.length < 4) footerUpper.appendChild(colAbout);
+      }
+    }
+
+    // 3. Apply layout styling
+    if (!document.getElementById('qs-footer-layout-style')) {
+      var style = document.createElement('style');
+      style.id = 'qs-footer-layout-style';
+      style.textContent = [
+        '#FooterUpper { display: flex !important; flex-wrap: wrap !important; justify-content: space-between !important; gap: 20px !important; }',
+        '#FooterUpper > .Column { float: none !important; margin: 0 !important; display: block !important; }',
+        '#FooterUpper > .Column.contact { flex: 1 1 270px !important; max-width: 310px !important; }',
+        '#FooterUpper > .Column:not(.contact) { flex: 1 1 180px !important; max-width: 230px !important; }',
+        '#FooterUpper .BlockContent ul { list-style: none !important; padding: 0 !important; margin: 0 !important; }',
+        '#FooterUpper .BlockContent li { font-size: 13.5px !important; line-height: 27px !important; padding: 0 0 0 14px !important; margin: 0 !important; }',
+        '#FooterUpper .BlockContent li a { color: #fce8cc !important; text-decoration: none !important; transition: color 0.18s ease !important; font-family: "Plus Jakarta Sans", sans-serif !important; }',
+        '#FooterUpper .BlockContent li a:hover { color: #ffd700 !important; text-decoration: underline !important; }',
+        '#FooterUpper h2 { font-family: "Marcellus", Georgia, serif !important; font-size: 19px !important; color: #d4af37 !important; margin: 0 0 12px 0 !important; }',
+        '@media (max-width: 800px) { #FooterUpper > .Column { flex: 1 1 45% !important; max-width: 48% !important; } }',
+        '@media (max-width: 520px) { #FooterUpper > .Column { flex: 1 1 100% !important; max-width: 100% !important; } }'
+      ].join('\n');
+      document.head.appendChild(style);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyFooterStructure, { once: true });
+  } else {
+    applyFooterStructure();
+  }
+  window.addEventListener('load', applyFooterStructure, { once: true });
+})();
+</script>
+<script id="qs-header-takeout-nav">
+(function () {
+  function injectTakeoutMenu() {
+    var menus = document.querySelectorAll('.SideCategoryListFlyout > ul.sf-menu');
+    if (!menus || menus.length === 0) return;
+
+    menus.forEach(function (menu) {
+      if (menu.querySelector('.qs-nav-takeout')) return;
+
+      var li = document.createElement('li');
+      li.className = 'qs-nav-takeout';
+      li.innerHTML = '<a href="/menu/">Takeout Menu</a>' +
+        '<ul>' +
+          '<li><a href="/menu/chaats/">Chaat Counter</a></li>' +
+          '<li><a href="/menu/street-food-snacks/">Hot Street Food &amp; Snacks</a></li>' +
+          '<li><a href="/menu/mithai-counter/">Mithai Counter (In-Store)</a></li>' +
+          '<li><a href="/menu/drinks/">Drinks &amp; Lassi</a></li>' +
+        '</ul>';
+
+      // Insert before Catering if present, otherwise append
+      var cateringLi = Array.from(menu.children).find(function (el) {
+        var a = el.querySelector(':scope > a');
+        return a && a.getAttribute('href') && a.getAttribute('href').indexOf('/catering/') !== -1;
+      });
+
+      if (cateringLi) {
+        menu.insertBefore(li, cateringLi);
+      } else {
+        menu.appendChild(li);
+      }
+    });
+
+    if (window.jQuery && typeof window.jQuery.fn.superfish === 'function') {
+      try { window.jQuery('ul.sf-menu').superfish(); } catch (e) {}
+    }
+  }
+
+  if (!document.getElementById('qs-header-takeout-style')) {
+    var style = document.createElement('style');
+    style.id = 'qs-header-takeout-style';
+    style.textContent = [
+      '#Header .PageMenu ul.sf-horizontal > li.qs-nav-takeout { flex: 0 1 auto !important; white-space: nowrap !important; }',
+      '#Header .PageMenu ul.sf-horizontal > li.qs-nav-takeout > a { font-weight: 700 !important; }',
+      '#Header .PageMenu ul.sf-horizontal > li.qs-nav-takeout:hover > ul { display: block !important; }',
+      '#Header .PageMenu ul.sf-horizontal > li.qs-nav-takeout ul { min-width: 220px !important; }',
+      '@media screen and (min-width: 1101px) {',
+      '  #Header .PageMenu #SideCategoryList > .BlockContent > .SideCategoryListFlyout > ul > li > a { font-size: 14.5px !important; padding: 12px 7px !important; }',
+      '}'
+    ].join('\n');
+    document.head.appendChild(style);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectTakeoutMenu, { once: true });
+  } else {
+    injectTakeoutMenu();
+  }
+  window.addEventListener('load', injectTakeoutMenu, { once: true });
+})();
+</script>

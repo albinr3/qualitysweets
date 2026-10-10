@@ -128,7 +128,7 @@ graph TD
 Para maximizar el valor de vida del cliente (LTV) y elevar el ticket promedio actual de **$35**:
 
 1. **Para Clientes de Mostrador en Iselin (Takeout & Pickup):**
-   * *"Order Ahead via WhatsApp, Pick Up in 10 Minutes — Skip the Line at Oak Tree Rd."*
+   * *"Call Ahead to Order, Pick Up in 10 Minutes — Skip the Line at Oak Tree Rd."*
    * "Samosa & Chai Combo" o "Chaat Box para Llevar" empaquetada para mantener la textura crujiente en el trayecto a casa.
 2. **Para Novios y Wedding Planners del Tri-State:**
    * **The Wedding Tasting Box:** Una caja curada con 6 especialidades de mithai y muestras de cajas de recuerdo doradas (Ganesh / Peacock Boxes) enviada a su domicilio en NY, NJ o CT por $29. Si contratan el pedido de la boda, el monto se abona 100% a la factura final.
@@ -147,6 +147,6 @@ Para maximizar el valor de vida del cliente (LTV) y elevar el ticket promedio ac
 | **Palabras Clave en Top 3 (Google)** | 13 - 17 | 45 | 120 | 300+ |
 | **Palabras Clave en Top 10 (Google)** | 58 - 72 | 150 | 350 | 800+ |
 | **Reseñas en Google Business Profile** | Base actual | +50 reseñas verificadas | +120 reseñas | +250 reseñas (Rating > 4.7) |
-| **Llamadas y WhatsApp desde Maps/Web**| Base actual | +40% pedidos takeout | +85% pedidos takeout | +150% interacciones |
+| **Llamadas Telefónicas desde Maps/Web**| Base actual | +40% pedidos takeout | +85% pedidos takeout | +150% interacciones |
 | **Ventas E-commerce (Tráfico Orgánico)**| Base incipiente | +$5,000 / mes | +$15,000 / mes | +$35,000+ / mes |
 | **Domain Authority (DA)** | 14 | 16 | 20 | 25+ |

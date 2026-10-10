@@ -50,7 +50,7 @@ body = r"""
     <div class="qs-kicker">Oak Tree Road &bull; Iselin, New Jersey &bull; Since 2003</div>
     <h1>Quality Sweets &mdash; Authentic Indian Sweet Shop &amp; Takeout in Iselin, NJ</h1>
     <p>Visit our Oak Tree Road counter for fresh handcrafted mithai, hot samosas, and authentic Indian chaat. We proudly serve Iselin, Edison, Woodbridge, and Central New Jersey.</p>
-    <div class="qs-notice">TAKEOUT &amp; COUNTER PICKUP ONLY &mdash; NO DINE-IN SEATING. Call or WhatsApp ahead and we will have your order packed to go.</div>
+    <div class="qs-notice">TAKEOUT &amp; COUNTER PICKUP ONLY &mdash; NO DINE-IN SEATING. Call ahead and we will have your order packed to go.</div>
     <div class="qs-actions"><a class="qs-btn qs-btn--gold" href="tel:+17322833799">Call for Counter Pickup</a><a class="qs-btn" href="/menu/">View the Takeout Menu</a></div>
   </section>
 
@@ -70,7 +70,7 @@ body = r"""
   <section class="qs-section">
     <h2>Hot Samosas, Chaats &amp; Street Food To-Go</h2>
     <p>Pick up hot food prepared for takeout at our Iselin counter: freshly fried samosas, pani puri, samosa chaat, chole bhatura, parathas, pakodas, and more. Hot menu items are made for local pickup and are not available for postal shipping.</p>
-    <p><a href="/menu/">See the official Iselin takeout menu</a> and order ahead by phone or WhatsApp to skip the wait.</p>
+    <p><a href="/menu/">See the official Iselin takeout menu</a> and order ahead by phone to skip the wait.</p>
   </section>
 
   <section class="qs-section">

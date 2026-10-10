@@ -499,6 +499,6 @@ Desplegar 60 días antes de cada festividad con URLs permanentes que no cambian 
 | **Tráfico Orgánico Mensual** | ~1,385 visitas/mes | 3,500 visitas/mes | 8,500 visitas/mes | **20,000+ visitas/mes** |
 | **Palabras Clave en Top 10** | ~18 keywords | 45 keywords | 110 keywords | **250+ keywords** |
 | **Ventas E-Commerce Nacional** | Mínimo / Esporádico | +40% pedidos | +120% pedidos | **+300% ingresos web** |
-| **Pedidos Takeout / WhatsApp** | Casual de mostrador | 15 pedidos/día | 35 pedidos/día | **70+ pedidos/día** |
+| **Pedidos Takeout / Teléfono** | Casual de mostrador | 15 pedidos/día | 35 pedidos/día | **70+ pedidos/día** |
 | **Reseñas en Google Maps** | Actuales | +40 reseñas (4.8★) | +100 reseñas (4.8★) | **+250 reseñas (4.9★)** |
 | **Catering B2B unificado** | Boca a boca | 3 cotizaciones/mes | 8 cotizaciones/mes | **15+ eventos/mes** |

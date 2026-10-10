@@ -1,0 +1,35 @@
+<script id="qs-ga4-purchase-v2">
+(function () {
+  "use strict";
+  var orderId1 = String("%%ORDER_ID%%").trim();
+  var orderId2 = String("%%GLOBAL_OrderId%%").trim();
+  var transactionId = (orderId1 && orderId1.indexOf("%%") === -1) ? orderId1 : ((orderId2 && orderId2.indexOf("%%") === -1) ? orderId2 : "");
+  if (!transactionId) {
+    try {
+      var match = window.location.pathname.match(/\/order-confirmation\/(\d+)/i) || (window.location.search && window.location.search.match(/[?&]order_?id=(\d+)/i));
+      if (match) transactionId = match[1];
+    } catch (e) {}
+  }
+
+  var amount1 = String("%%ORDER_AMOUNT%%").trim();
+  var amount2 = String("%%GLOBAL_OrderAmount%%").trim();
+  var rawAmount = (amount1 && amount1.indexOf("%%") === -1) ? amount1 : ((amount2 && amount2.indexOf("%%") === -1) ? amount2 : "");
+  var value = Number(rawAmount.replace(/[^0-9.-]/g, ""));
+
+  if (!transactionId || transactionId.indexOf("%%") !== -1 || !Number.isFinite(value) || value < 0) return;
+  var storageKey = "qs_ga4_purchase_" + transactionId;
+  try { if (window.sessionStorage && sessionStorage.getItem(storageKey)) return; } catch (error) {}
+  window.dataLayer = window.dataLayer || [];
+  if (typeof window.gtag !== "function") {
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    var tag = document.createElement("script");
+    tag.async = true;
+    tag.src = "https://www.googletagmanager.com/gtag/js?id=G-34WFEPDKY8";
+    document.head.appendChild(tag);
+    window.gtag("js", new Date());
+    window.gtag("config", "G-34WFEPDKY8", { send_page_view: false });
+  }
+  window.gtag("event", "purchase", { transaction_id: transactionId, value: value, currency: "USD" });
+  try { if (window.sessionStorage) sessionStorage.setItem(storageKey, "1"); } catch (error) {}
+}());
+</script>

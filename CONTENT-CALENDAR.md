@@ -47,13 +47,13 @@ En la industria de dulces y gastronomía india en EE. UU., entre el **50% y el 6
 - **Target Keywords:** `samosa near me` (18,100 vol), `bulk samosa order` (10 vol), `samosa catering` (140 vol)
 - **Inventario Destacado:** Fresh Samosa caliente, Samosa Chaat, Paneer Pakoda, Cut Mirchy Pakoda.
 - **Ángulo:** La rutina diaria desde las 6:00 AM en Quality Sweets: masa crujiente amasada a mano, papas especiadas frescas, cero conservantes y nunca congeladas.
-- **CTA Local:** *"Order ahead on WhatsApp for fast takeout pickup at 1384 Oak Tree Rd (No dine-in waiting)."*
+- **CTA Local:** *"Call ahead to order for fast takeout pickup at 1384 Oak Tree Rd (No dine-in waiting)."*
 
 #### Artículo 4: *"The Ultimate Guide to Authentic Indian Chaat to Go: Pani Puri, Dahi Bhalla & Samosa Chaat"*
 - **Target Keywords:** `chaat near me` (14,800 vol), `pani puri near me` (18,100 vol), `dahi bhalla` (3,600 vol), `papri chaat near me` (880 vol)
 - **Inventario Destacado:** Pani Puri, Dahi Puri, Dahi Bhalla, Papri Chaat, Kachori Chaat, Aloo Tikki Chaat, Pakoda Chaat.
 - **Ángulo:** Cómo empaca Quality Sweets el Chaat para llevar de forma que las aguas de menta, el yogur y los chutneys se mantengan frescos y crujientes al llegar a casa.
-- **CTA:** Ver la carta completa de Takeout y pedir por teléfono o WhatsApp.
+- **CTA:** Ver la carta completa de Takeout y llamar por teléfono para ordenar.
 
 #### Artículo 5: *"North Indian Comfort Food to Go: Hot Parathas, Chole Bhatura & Masala Tea"*
 - **Target Keywords:** `chole bhatura near me` (5,400 vol), `chole bhatura` (18,100 vol), `paratha near me`, `mango lassi`
@@ -99,6 +99,6 @@ Textos obligatorios de 400+ palabras con enlaces internos estructurados para la 
 
 ## 4. Estrategia de Difusión Omnicanal
 
-1. **WhatsApp Broadcast (Pedidos Rápidos de Mostrador):** Aviso de promociones y menú de fin de semana para clientes locales que piden y recogen sin filas.
+1. **Boletín / SMS Local (Pedidos Rápidos de Mostrador):** Aviso de promociones y menú de fin de semana para clientes locales que piden y recogen sin filas.
 2. **Google Business Profile Updates:** Publicar 2 veces por semana fotografías de alta calidad de los dulces del día, destacando los sellos *"No Preservatives"* y *"Takeout / Online Delivery Available"*.
 3. **Insertos en Cajas de Dulces:** Código QR impreso en las cajas de compra invitando a calificar la experiencia en Google Maps o a ordenar para familiares en otros estados con envío gratuito en órdenes de $60+.

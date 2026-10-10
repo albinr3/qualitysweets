@@ -15,7 +15,7 @@ Sanjeev Saini
 Primary Contact Email
 Sanjeevsweets777@gmail.com
 Preferred Method of Communication for onboarding
-WhatsApp 
+Email / Phone
 Please enter the business hours.
 7 days a week 
 10am to 8pm
@@ -169,7 +169,7 @@ What questions do customers most frequently ask before deciding to purchase, boo
 Is it fresh ?
 What’s the price ? 
 How would you prefer to receive your monthly SEO reporting?
-Whatsapp
+Email
 Call
 Domain access credentials(email and password)
 I can get that info for you 

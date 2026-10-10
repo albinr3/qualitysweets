@@ -92,27 +92,6 @@ body_html = """
     box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4);
   }
 
-  .qs-btn-whatsapp {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    background: #25d366;
-    color: #ffffff !important;
-    font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-    padding: 11px 22px;
-    border-radius: 6px;
-    text-decoration: none !important;
-    transition: all 0.2s ease;
-  }
-  .qs-btn-whatsapp:hover {
-    background: #1ebc59;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
-  }
-
   /* Grid de Productos Destacados */
   .qs-product-card {
     background: #ffffff;

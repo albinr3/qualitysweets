@@ -120,7 +120,7 @@ Tasa de Cobertura y Asignación: 100.0% (0 keywords huérfanas)
 * **URL Canónica:** `/menu/` *(Hub de Carta Takeout)* y sub-silos:
   * `/menu/chaats/` (Chaat preparado)
   * `/menu/street-food-snacks/` (Samosas, Pani Puri, Chole Bhatura, Parathas, Pakodas)
-* **Rol de Negocio:** Dominar las búsquedas masivas de comida caliente y street food india para clientes que ordenan por teléfono/WhatsApp y recogen en mostrador.
+* **Rol de Negocio:** Dominar las búsquedas masivas de comida caliente y street food india para clientes que ordenan por teléfono y recogen en mostrador.
 * **Volumen Total del Cluster:** **560,950 búsquedas/mes**
 
 | # CSV | Palabra Clave | Volumen Mensual | CPC ($) | SEO KD | Paid Diff | Intención de Búsqueda | Ubicación en Wireframe |
@@ -145,7 +145,7 @@ Tasa de Cobertura y Asignación: 100.0% (0 keywords huérfanas)
 | **2** | `indian chaat near me` | 3,600 | $0.43 | 47 | 21 | Local Transaccional | Párrafo Local de Iselin |
 | **4** | `dahi bhalla` | 3,600 | $0.54 | 51 | 1 | Transaccional Plato | Ficha Dahi Bhalla con chutneys |
 | **69** | `papri chaat` | 2,400 | $0.00 | 24 | 2 | Transaccional Plato | Ficha Papri Chaat crujiente |
-| **97** | `samosa chaat near me` | 2,400 | $0.47 | 15 | 26 | Local Transaccional | Callout WhatsApp Fast Pickup |
+| **97** | `samosa chaat near me` | 2,400 | $0.47 | 15 | 26 | Local Transaccional | Callout Fast Counter Pickup |
 | **22** | `gobi paratha` | 1,600 | $0.06 | 34 | 1 | Transaccional Desayuno | Ficha Ghobi Paratha con mantequilla |
 | **95** | `kachori chaat` | 1,000 | $0.00 | 20 | 1 | Transaccional Plato | Ficha Kachori Chaat en Carta |
 | **87** | `papri chaat near me` | 880 | $0.89 | 38 | 28 | Local Transaccional | Párrafo Empaque Hermético |
@@ -403,7 +403,7 @@ A continuación se presentan los wireframes completos de cada página nueva y ex
 │ [MÓDULO 2: MOSTRADOR DE COMIDA CALIENTE & CHAAT (TAKEOUT ONLY)]:       │
 │ H2: Hot Samosas, Chaats & Street Food To-Go (Iselin Counter Pickup)    │
 │ ⚠️ NOTICE: Prepared hot to order at 1384 Oak Tree Rd. Takeout and      │
-│    pickup only (No Dine-In tables). Call or WhatsApp ahead to skip line│
+│    pickup only (No Dine-In tables). Call ahead to skip the waiting line│
 │                                                                        │
 │ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌─────────────────┐ │
 │ │ Fresh Samosas│ │ Pani Puri    │ │ Samosa Chaat │ │ Chole Bhatura   │ │
@@ -478,7 +478,7 @@ A continuación se presentan los wireframes completos de cada página nueva y ex
   1. `H2: Fresh Mithai Counter by the Pound ($/lb) in Oak Tree Road`
   2. `H2: Hot Samosas, Chaats & Street Food To-Go (Takeout Only — No Dine-In)`
   3. `H2: Visit Our Store: Location, Hours & Easy Parking in Iselin / Edison NJ`
-  4. `H2: Easy Pickup via WhatsApp: Skip the Wait at Oak Tree Road`
+  4. `H2: Fast Counter Pickup: Call Ahead & Skip the Wait at Oak Tree Road`
   5. `H2: Directions from NYC, Long Island, and Connecticut`
 
 ### Wireframe Visual Modular
@@ -496,9 +496,9 @@ A continuación se presentan los wireframes completos de cada página nueva y ex
 │ │ 🚨 CRITICAL SERVICE NOTICE:                                      │   │
 │ │ **TAKEOUT & COUNTER PICKUP ONLY — NO DINE-IN SEATING AVAILABLE** │   │
 │ │ To ensure the fastest service and freshest taste, all orders are │   │
-│ │ packed to-go at our counter. Order ahead via phone or WhatsApp!  │   │
+│ │ packed to-go at our counter. Call ahead to have your order ready!│   │
 │ └──────────────────────────────────────────────────────────────────┘   │
-│ [Button: 💬 Order for Counter Pickup (WhatsApp)] [Button: View Takeout Menu]
+│ [Button: 📞 Call Ahead to Order: (732) 283-3799] [Button: View Takeout Menu]│
 ├────────────────────────────────────────────────────────────────────────┤
 │ [SECCIÓN DE VITRINA DE MOSTRADOR]:                                     │
 │ H2: Fresh Mithai Counter by the Pound ($/lb) in Oak Tree Road          │
@@ -558,7 +558,7 @@ El volante físico de mostrador de Quality Sweets contiene **comida caliente y b
 ### 2A: Hub Carta General (`/menu/`)
 * **URL Canónica:** `/menu/`
 * **Meta Title:** `Takeout Menu | Hot Chaat, Samosas & Mithai | Quality Sweets Iselin NJ`
-* **Meta Description:** `Official takeout menu for Quality Sweets in Iselin, NJ. Hot samosas, fresh chaats, chole bhatura & sweets to-go. Order ahead on WhatsApp.`
+* **Meta Description:** `Official takeout menu for Quality Sweets in Iselin, NJ. Hot samosas, fresh chaats, chole bhatura & sweets to-go. Call ahead for pickup.`
 * **H1:** `Official Iselin Store Takeout Menu — Fresh Chaat & Hot Snacks To-Go`
 * **Aviso Destacado:** *"Notice: The items on this menu are prepared hot daily for pickup at our 1384 Oak Tree Rd store. Not available for postal shipping. For nationwide delivery, visit our [Online Sweets Shop](/indian-sweets/)."*
 
