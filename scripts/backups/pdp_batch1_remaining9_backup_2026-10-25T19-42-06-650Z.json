@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 112,
+    "keyword_filter": null,
+    "name": "Plain Burfi",
+    "type": "physical",
+    "sku": "47",
+    "description": "<p>Pure plain Khoya burfi cut into diamond shapes</p>\r\n<p>Approximately 12 pcs per lb</p>\n<script id=\"qs-schema-product-112-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Plain Burfi\",\"url\":\"%%GLOBAL_ShopPathSSL%%/plain-burfi/\",\"description\":\"Pure plain Khoya burfi cut into diamond shapes Approximately 12 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/112/images/307/Kaju_Katly1__50684.1433826354.350.350.jpg?c=2\",\"sku\":\"47\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/plain-burfi/\",\"priceCurrency\":\"USD\",\"price\":7.5,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "7.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "7.5000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 0,
+    "rating_count": 0,
+    "total_sold": 43,
+    "date_created": "Tue, 09 Jun 2015 04:56:38 +0000",
+    "brand_id": 0,
+    "view_count": 3037,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      3,
+      22
+    ],
+    "date_modified": "Sun, 25 Oct 2026 17:30:17 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 307,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/112/images/307/Kaju_Katly1__50684.1790725939.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/112/images/307/Kaju_Katly1__50684.1790725939.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/112/images/307/Kaju_Katly1__50684.1790725939.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/112/images/307/Kaju_Katly1__50684.1790725939.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/downloads",
+      "resource": "/products/112/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/images",
+      "resource": "/products/112/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/discountrules",
+      "resource": "/products/112/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/configurablefields",
+      "resource": "/products/112/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/customfields",
+      "resource": "/products/112/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/videos",
+      "resource": "/products/112/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/skus",
+      "resource": "/products/112/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/rules",
+      "resource": "/products/112/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/options",
+      "resource": "/products/112/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/112/reviews",
+      "resource": "/products/112/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/plain-burfi/"
+  },
+  {
+    "id": 77,
+    "keyword_filter": null,
+    "name": "Kaju Katli",
+    "type": "physical",
+    "sku": "11",
+    "description": "<p>Pure cashew sweetened and cut into Diamond shapes</p>\r\n<p>Approximately 18pc per lb</p>\n<script id=\"qs-schema-product-77-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Kaju Katli\",\"url\":\"%%GLOBAL_ShopPathSSL%%/kaju-katli/\",\"description\":\"Pure cashew sweetened and cut into Diamond shapes Approximately 18pc per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/77/images/308/Plain_Burfi__57958.1433826518.350.350.jpg?c=2\",\"sku\":\"11\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/kaju-katli/\",\"priceCurrency\":\"USD\",\"price\":9,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "9.0000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "9.0000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "14.0000",
+    "height": "11.0000",
+    "depth": "11.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 10,
+    "rating_count": 2,
+    "total_sold": 277,
+    "date_created": "Sat, 06 Jun 2015 00:34:13 +0000",
+    "brand_id": 0,
+    "view_count": 6766,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      3,
+      22
+    ],
+    "date_modified": "Wed, 14 Oct 2026 21:55:23 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 308,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/77/images/308/Plain_Burfi__57958.1790725926.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/77/images/308/Plain_Burfi__57958.1790725926.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/77/images/308/Plain_Burfi__57958.1790725926.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/77/images/308/Plain_Burfi__57958.1790725926.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/downloads",
+      "resource": "/products/77/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/images",
+      "resource": "/products/77/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/discountrules",
+      "resource": "/products/77/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/configurablefields",
+      "resource": "/products/77/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/customfields",
+      "resource": "/products/77/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/videos",
+      "resource": "/products/77/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/skus",
+      "resource": "/products/77/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/rules",
+      "resource": "/products/77/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/options",
+      "resource": "/products/77/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/77/reviews",
+      "resource": "/products/77/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/kaju-katli/"
+  },
+  {
+    "id": 104,
+    "keyword_filter": null,
+    "name": "Motichur Ladoo",
+    "type": "physical",
+    "sku": "39",
+    "description": "<p>Made with gram flour boondi hand rolled into a ball with dry fruit inside</p>\r\n<p>Approximately 8-9 pcs per lb</p>\n<script id=\"qs-schema-product-104-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Motichur Ladoo\",\"url\":\"%%GLOBAL_ShopPathSSL%%/motichur-ladoo/\",\"description\":\"Made with gram flour boondi hand rolled into a ball with dry fruit inside Approximately 8-9 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/104/images/299/Motichur_Ladoo__31599.1433801521.350.350.jpg?c=2\",\"sku\":\"39\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/motichur-ladoo/\",\"priceCurrency\":\"USD\",\"price\":6.5,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "6.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "6.5000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 13,
+    "rating_count": 3,
+    "total_sold": 414,
+    "date_created": "Mon, 08 Jun 2015 22:12:06 +0000",
+    "brand_id": 0,
+    "view_count": 10322,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      2,
+      3
+    ],
+    "date_modified": "Fri, 23 Oct 2026 20:27:10 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 299,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/104/images/299/Motichur_Ladoo__31599.1790725936.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/104/images/299/Motichur_Ladoo__31599.1790725936.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/104/images/299/Motichur_Ladoo__31599.1790725936.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/104/images/299/Motichur_Ladoo__31599.1790725936.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/downloads",
+      "resource": "/products/104/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/images",
+      "resource": "/products/104/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/discountrules",
+      "resource": "/products/104/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/configurablefields",
+      "resource": "/products/104/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/customfields",
+      "resource": "/products/104/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/videos",
+      "resource": "/products/104/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/skus",
+      "resource": "/products/104/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/rules",
+      "resource": "/products/104/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/options",
+      "resource": "/products/104/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/104/reviews",
+      "resource": "/products/104/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/motichur-ladoo/"
+  },
+  {
+    "id": 98,
+    "keyword_filter": null,
+    "name": "Besan Ladoo",
+    "type": "physical",
+    "sku": "32",
+    "description": "<p>Hand Rolled gram flour ball with cardamon</p>\r\n<p>Approximately 7-8 pcs per lb</p>\n<script id=\"qs-schema-product-98-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Besan Ladoo\",\"url\":\"%%GLOBAL_ShopPathSSL%%/besan-ladoo/\",\"description\":\"Hand Rolled gram flour ball with cardamon Approximately 7-8 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/98/images/294/Besan_Ladoo__03878.1433732821.350.350.jpg?c=2\",\"sku\":\"32\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/besan-ladoo/\",\"priceCurrency\":\"USD\",\"price\":8,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "8.0000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "8.0000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 0,
+    "rating_count": 0,
+    "total_sold": 49,
+    "date_created": "Mon, 08 Jun 2015 03:09:56 +0000",
+    "brand_id": 0,
+    "view_count": 2844,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      2,
+      3
+    ],
+    "date_modified": "Sun, 25 Oct 2026 17:30:17 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 294,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/98/images/294/Besan_Ladoo__03878.1790725934.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/98/images/294/Besan_Ladoo__03878.1790725934.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/98/images/294/Besan_Ladoo__03878.1790725934.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/98/images/294/Besan_Ladoo__03878.1790725934.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/downloads",
+      "resource": "/products/98/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/images",
+      "resource": "/products/98/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/discountrules",
+      "resource": "/products/98/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/configurablefields",
+      "resource": "/products/98/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/customfields",
+      "resource": "/products/98/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/videos",
+      "resource": "/products/98/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/skus",
+      "resource": "/products/98/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/rules",
+      "resource": "/products/98/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/options",
+      "resource": "/products/98/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/98/reviews",
+      "resource": "/products/98/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/besan-ladoo/"
+  },
+  {
+    "id": 127,
+    "keyword_filter": null,
+    "name": "Gulab Jamoon (Large)",
+    "type": "physical",
+    "sku": "62",
+    "description": "<p>Hand rolled Khoya ball in syrup, it has a soft and smooth texture.</p>\r\n<p>Approimately 8 pcs per lb</p>\n<script id=\"qs-schema-product-127-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Gulab Jamoon (Large)\",\"url\":\"%%GLOBAL_ShopPathSSL%%/gulab-jamoon-large/\",\"description\":\"Hand rolled Khoya ball in syrup, it has a soft and smooth texture. Approimately 8 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/127/images/323/Big_Gulab_Jamoon__68976.1433867383.350.350.jpg?c=2\",\"sku\":\"62\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/gulab-jamoon-large/\",\"priceCurrency\":\"USD\",\"price\":7.5,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "7.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "7.5000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 0,
+    "rating_count": 0,
+    "total_sold": 77,
+    "date_created": "Tue, 09 Jun 2015 16:26:45 +0000",
+    "brand_id": 0,
+    "view_count": 3266,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      2,
+      3
+    ],
+    "date_modified": "Fri, 02 Oct 2026 00:20:56 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 323,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/127/images/323/Big_Gulab_Jamoon__68976.1790725944.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/127/images/323/Big_Gulab_Jamoon__68976.1790725944.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/127/images/323/Big_Gulab_Jamoon__68976.1790725944.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/127/images/323/Big_Gulab_Jamoon__68976.1790725944.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/downloads",
+      "resource": "/products/127/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/images",
+      "resource": "/products/127/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/discountrules",
+      "resource": "/products/127/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/configurablefields",
+      "resource": "/products/127/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/customfields",
+      "resource": "/products/127/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/videos",
+      "resource": "/products/127/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/skus",
+      "resource": "/products/127/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/rules",
+      "resource": "/products/127/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/options",
+      "resource": "/products/127/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/127/reviews",
+      "resource": "/products/127/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/gulab-jamoon-large/"
+  },
+  {
+    "id": 126,
+    "keyword_filter": null,
+    "name": "Rasgulla (Large)",
+    "type": "physical",
+    "sku": "61",
+    "description": "<p>Hand rolled paneer ball</p>\r\n<p>Approximately 8 pcs per lb</p>\n<script id=\"qs-schema-product-126-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Rasgulla (Large)\",\"url\":\"%%GLOBAL_ShopPathSSL%%/rasgulla-large/\",\"description\":\"Hand rolled paneer ball Approximately 8 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/126/images/322/Big_Rasgulla__59066.1433867078.350.350.jpg?c=2\",\"sku\":\"61\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/rasgulla-large/\",\"priceCurrency\":\"USD\",\"price\":8,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "8.0000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "8.0000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 5,
+    "rating_count": 1,
+    "total_sold": 49,
+    "date_created": "Tue, 09 Jun 2015 16:20:57 +0000",
+    "brand_id": 0,
+    "view_count": 2469,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      3,
+      8
+    ],
+    "date_modified": "Wed, 16 Sep 2026 16:28:52 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 322,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/126/images/322/Big_Rasgulla__59066.1790725944.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/126/images/322/Big_Rasgulla__59066.1790725944.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/126/images/322/Big_Rasgulla__59066.1790725944.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/126/images/322/Big_Rasgulla__59066.1790725944.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/downloads",
+      "resource": "/products/126/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/images",
+      "resource": "/products/126/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/discountrules",
+      "resource": "/products/126/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/configurablefields",
+      "resource": "/products/126/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/customfields",
+      "resource": "/products/126/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/videos",
+      "resource": "/products/126/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/skus",
+      "resource": "/products/126/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/rules",
+      "resource": "/products/126/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/options",
+      "resource": "/products/126/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/126/reviews",
+      "resource": "/products/126/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/rasgulla-large/"
+  },
+  {
+    "id": 92,
+    "keyword_filter": null,
+    "name": "Moong Dal Halwa",
+    "type": "physical",
+    "sku": "26",
+    "description": "<p>Made from real Moong dal and ghee</p>\r\n<p>1lb</p>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "6.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "6.5000",
+    "sort_order": 0,
+    "is_visible": false,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 0,
+    "rating_count": 0,
+    "total_sold": 13,
+    "date_created": "Mon, 08 Jun 2015 02:00:28 +0000",
+    "brand_id": 0,
+    "view_count": 2154,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      2,
+      3
+    ],
+    "date_modified": "Mon, 20 Oct 2025 21:13:00 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 287,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/92/images/287/moong_dal__18890.1790725932.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/92/images/287/moong_dal__18890.1790725932.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/92/images/287/moong_dal__18890.1790725932.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/92/images/287/moong_dal__18890.1790725932.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/downloads",
+      "resource": "/products/92/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/images",
+      "resource": "/products/92/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/discountrules",
+      "resource": "/products/92/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/configurablefields",
+      "resource": "/products/92/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/customfields",
+      "resource": "/products/92/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/videos",
+      "resource": "/products/92/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/skus",
+      "resource": "/products/92/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/rules",
+      "resource": "/products/92/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/options",
+      "resource": "/products/92/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/92/reviews",
+      "resource": "/products/92/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/moong-dal-halwa/"
+  },
+  {
+    "id": 94,
+    "keyword_filter": null,
+    "name": "Imarti",
+    "type": "physical",
+    "sku": "28",
+    "description": "<p>Made with Urad Dal soaked in sugar syrup and saffron.</p>\r\n<p>Approximately 10 pcs per lb</p>\n<script id=\"qs-schema-product-94-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Imarti\",\"url\":\"%%GLOBAL_ShopPathSSL%%/imarti/\",\"description\":\"Made with Urad Dal soaked in sugar syrup and saffron. Approximately 10 pcs per lb\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/94/images/289/Imarty__19234.1433729629.350.350.jpg?c=2\",\"sku\":\"28\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/imarti/\",\"priceCurrency\":\"USD\",\"price\":7.5,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "7.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "7.5000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 13,
+    "rating_count": 3,
+    "total_sold": 47,
+    "date_created": "Mon, 08 Jun 2015 02:13:55 +0000",
+    "brand_id": 0,
+    "view_count": 6471,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      2,
+      3
+    ],
+    "date_modified": "Wed, 14 Oct 2026 19:17:19 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 289,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/94/images/289/Imarty__19234.1790725932.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/94/images/289/Imarty__19234.1790725932.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/94/images/289/Imarty__19234.1790725932.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/94/images/289/Imarty__19234.1790725932.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/downloads",
+      "resource": "/products/94/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/images",
+      "resource": "/products/94/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/discountrules",
+      "resource": "/products/94/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/configurablefields",
+      "resource": "/products/94/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/customfields",
+      "resource": "/products/94/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/videos",
+      "resource": "/products/94/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/skus",
+      "resource": "/products/94/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/rules",
+      "resource": "/products/94/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/options",
+      "resource": "/products/94/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/94/reviews",
+      "resource": "/products/94/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/imarti/"
+  },
+  {
+    "id": 105,
+    "keyword_filter": null,
+    "name": "Milk Cake",
+    "type": "physical",
+    "sku": "40",
+    "description": "<p>Grainy browned khoya garnished with pista</p>\r\n<p>Approximately 7-8 pcs</p>\n<script id=\"qs-schema-product-105-v1\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Milk Cake\",\"url\":\"%%GLOBAL_ShopPathSSL%%/milk-cake/\",\"description\":\"Grainy browned khoya garnished with pista Approximately 7-8 pcs\",\"image\":\"https://cdn10.bigcommerce.com/s-2ygwtj/products/105/images/301/Milk_Cake__92535.1433802617.350.350.jpg?c=2\",\"sku\":\"40\",\"category\":\"All Indian Sweets\",\"offers\":{\"@type\":\"Offer\",\"url\":\"%%GLOBAL_ShopPathSSL%%/milk-cake/\",\"priceCurrency\":\"USD\",\"price\":7.5,\"availability\":\"https://schema.org/InStock\",\"itemCondition\":\"https://schema.org/NewCondition\"}}</script>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "7.5000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "7.5000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.2000",
+    "width": "6.0000",
+    "height": "1.5000",
+    "depth": "6.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 0,
+    "rating_count": 0,
+    "total_sold": 121,
+    "date_created": "Mon, 08 Jun 2015 22:18:56 +0000",
+    "brand_id": 0,
+    "view_count": 2696,
+    "page_title": "",
+    "meta_keywords": "",
+    "meta_description": "",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+      3,
+      22
+    ],
+    "date_modified": "Thu, 15 Oct 2026 01:11:28 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 2,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "primary_image": {
+      "id": 301,
+      "zoom_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/105/images/301/Milk_Cake__92535.1790725936.1280.1280.jpg?c=2",
+      "thumbnail_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/105/images/301/Milk_Cake__92535.1790725936.215.215.jpg?c=2",
+      "standard_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/105/images/301/Milk_Cake__92535.1790725936.350.350.jpg?c=2",
+      "tiny_url": "https://cdn10.bigcommerce.com/s-2ygwtj/products/105/images/301/Milk_Cake__92535.1790725936.90.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/brands/0",
+      "resource": "/brands/0"
+    },
+    "downloads": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/downloads",
+      "resource": "/products/105/downloads"
+    },
+    "images": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/images",
+      "resource": "/products/105/images"
+    },
+    "discount_rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/discountrules",
+      "resource": "/products/105/discountrules"
+    },
+    "configurable_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/configurablefields",
+      "resource": "/products/105/configurablefields"
+    },
+    "custom_fields": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/customfields",
+      "resource": "/products/105/customfields"
+    },
+    "videos": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/videos",
+      "resource": "/products/105/videos"
+    },
+    "skus": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/skus",
+      "resource": "/products/105/skus"
+    },
+    "rules": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/rules",
+      "resource": "/products/105/rules"
+    },
+    "option_set": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/optionsets/2",
+      "resource": "/optionsets/2"
+    },
+    "options": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/options",
+      "resource": "/products/105/options"
+    },
+    "tax_class": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/taxclasses/0",
+      "resource": "/taxclasses/0"
+    },
+    "reviews": {
+      "url": "https://api.bigcommerce.com/stores/2ygwtj/v2/products/105/reviews",
+      "resource": "/products/105/reviews"
+    },
+    "metadata": [],
+    "custom_url": "/milk-cake/"
+  }
+]

@@ -440,6 +440,13 @@ Crear primero estas seis categorías en **Products**: `Barfi & Kaju Katli`, `Ben
 
 **No cargar como Productos:** samosas, pakora, aloo paratha, pani puri, chaat ni chole bhatura. Son platos preparados y deben mantenerse en el editor de menú de GBP con `/menu/` como URL. Tampoco crear duplicados por tamaño, peso, sabor o precio: usar una ficha representativa por familia de producto y actualizarla si deja de estar disponible.
 
+> 📚 **Optimización On-Page de Fichas de Producto E-Commerce (PDP) & Jerarquía de Encabezados:**  
+> La optimización de títulos, metadescripciones, marcado Schema y normalización semántica del árbol de encabezados (`<h1>`, `<h2>`, `<h3>`) se documenta y ejecuta secuencialmente por lotes en:
+> * 📄 [PDP-SEO-OPTIMIZATION-GUIDE.md](file:///c:/Users/Albin%20Rodriguez/Documents/QualitySweets/PDP-SEO-OPTIMIZATION-GUIDE.md) (Guía y matriz de los 10 productos del Lote 1 con variantes culturales).
+> * 📄 [product_pages_seo_optimization_plan.md](file:///C:/Users/Albin%20Rodriguez/.gemini/antigravity-ide/brain/94ad4930-5334-4377-bc69-98cc5774aa72/product_pages_seo_optimization_plan.md) (Plan maestro interactivo y diagnóstico técnico).
+> * 📄 [walkthrough.md](file:///C:/Users/Albin%20Rodriguez/.gemini/antigravity-ide/brain/94ad4930-5334-4377-bc69-98cc5774aa72/walkthrough.md) (Pruebas de verificación en vivo y capturas de pantalla).
+
+
 #### Paso 4.3C: Menú Takeout GBP (Platos Preparados To-Go)
 
 > **Estado de Ejecución:** ✅ **Completado el 20 de Septiembre de 2026**.
